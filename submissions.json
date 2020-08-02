@@ -581,6 +581,24 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF88727819": {
+    "contest_id": 508,
+    "language": "Java 11",
+    "path": "codeforces\\508\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Anton and currency you all know",
+    "problem_url": "https://codeforces.com/contest/508/problem/B",
+    "submission_id": "CF88727819",
+    "submission_url": "https://codeforces.com/contest/508/submission/88727819",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Aug/02/2020 17:12"
+  },
   "CF88964463": {
     "contest_id": 1399,
     "language": "Java 11",
