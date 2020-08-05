@@ -581,6 +581,24 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF89030405": {
+    "contest_id": 1399,
+    "language": "Java 11",
+    "path": "codeforces\\1399\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Boats Competition",
+    "problem_url": "https://codeforces.com/contest/1399/problem/C",
+    "submission_id": "CF89030405",
+    "submission_url": "https://codeforces.com/contest/1399/submission/89030405",
+    "tags": [
+      "brute force",
+      "greedy",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Aug/05/2020 21:29"
+  },
   "CF91083293": {
     "contest_id": 1358,
     "language": "Java 11",
