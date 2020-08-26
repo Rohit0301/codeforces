@@ -581,6 +581,23 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF91083293": {
+    "contest_id": 1358,
+    "language": "Java 11",
+    "path": "codeforces\\1358\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maria Breaks the Self-isolation",
+    "problem_url": "https://codeforces.com/contest/1358/problem/B",
+    "submission_id": "CF91083293",
+    "submission_url": "https://codeforces.com/contest/1358/submission/91083293",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Aug/26/2020 23:47"
+  },
   "CF92482399": {
     "contest_id": 4,
     "language": "Java 11",
