@@ -581,6 +581,25 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF92485285": {
+    "contest_id": 339,
+    "language": "Java 11",
+    "path": "codeforces\\339\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Helpful Maths",
+    "problem_url": "https://codeforces.com/contest/339/problem/A",
+    "submission_id": "CF92485285",
+    "submission_url": "https://codeforces.com/contest/339/submission/92485285",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/11/2020 15:18"
+  },
   "CF92692665": {
     "contest_id": 160,
     "language": "Java 11",
