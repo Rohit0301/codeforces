@@ -581,6 +581,22 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF94333891": {
+    "contest_id": 1408,
+    "language": "Java 11",
+    "path": "codeforces\\1408\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Circle Coloring",
+    "problem_url": "https://codeforces.com/contest/1408/problem/A",
+    "submission_id": "CF94333891",
+    "submission_url": "https://codeforces.com/contest/1408/submission/94333891",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Sep/30/2020 21:45"
+  },
   "CF96118348": {
     "contest_id": 1433,
     "language": "Java 11",
