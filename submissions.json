@@ -581,6 +581,23 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF98695998": {
+    "contest_id": 1440,
+    "language": "Java 11",
+    "path": "codeforces\\1440\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buy the String",
+    "problem_url": "https://codeforces.com/contest/1440/problem/A",
+    "submission_id": "CF98695998",
+    "submission_url": "https://codeforces.com/contest/1440/submission/98695998",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/17/2020 20:22"
+  },
   "CF98720549": {
     "contest_id": 1440,
     "language": "Java 11",
