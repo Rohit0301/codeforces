@@ -581,6 +581,22 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF99432399": {
+    "contest_id": 1454,
+    "language": "Java 11",
+    "path": "codeforces\\1454\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Unique Bid Auction",
+    "problem_url": "https://codeforces.com/contest/1454/problem/B",
+    "submission_id": "CF99432399",
+    "submission_url": "https://codeforces.com/contest/1454/submission/99432399",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/24/2020 20:24"
+  },
   "CF99482339": {
     "contest_id": 1454,
     "language": "Java 11",
