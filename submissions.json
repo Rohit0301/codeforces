@@ -1,4 +1,21 @@
 {
+  "CF100000677": {
+    "contest_id": 1455,
+    "language": "Java 11",
+    "path": "codeforces\\1455\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Functions",
+    "problem_url": "https://codeforces.com/contest/1455/problem/A",
+    "submission_id": "CF100000677",
+    "submission_url": "https://codeforces.com/contest/1455/submission/100000677",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2020 20:12"
+  },
   "CF100033061": {
     "contest_id": 1455,
     "language": "Java 11",
