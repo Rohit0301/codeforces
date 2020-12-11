@@ -1,4 +1,21 @@
 {
+  "CF100921831": {
+    "contest_id": 1461,
+    "language": "Java 11",
+    "path": "codeforces\\1461\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Generation",
+    "problem_url": "https://codeforces.com/contest/1461/problem/A",
+    "submission_id": "CF100921831",
+    "submission_url": "https://codeforces.com/contest/1461/submission/100921831",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Dec/11/2020 20:19"
+  },
   "CF101264720": {
     "contest_id": 1462,
     "language": "Java 11",
