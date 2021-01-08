@@ -1,4 +1,22 @@
 {
+  "CF103785696": {
+    "contest_id": 1467,
+    "language": "Java 11",
+    "path": "codeforces\\1467\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wizard of Orz",
+    "problem_url": "https://codeforces.com/contest/1467/problem/A",
+    "submission_id": "CF103785696",
+    "submission_url": "https://codeforces.com/contest/1467/submission/103785696",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jan/08/2021 21:19"
+  },
   "CF103906344": {
     "contest_id": 1076,
     "language": "Java 11",
