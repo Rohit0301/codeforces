@@ -1,4 +1,22 @@
 {
+  "CF103906344": {
+    "contest_id": 1076,
+    "language": "Java 11",
+    "path": "codeforces\\1076\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Divisor Subtraction",
+    "problem_url": "https://codeforces.com/contest/1076/problem/B",
+    "submission_id": "CF103906344",
+    "submission_url": "https://codeforces.com/contest/1076/submission/103906344",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Jan/09/2021 23:37"
+  },
   "CF103953346": {
     "contest_id": 1447,
     "language": "Java 11",
