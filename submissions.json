@@ -1,4 +1,21 @@
 {
+  "CF104142588": {
+    "contest_id": 1463,
+    "language": "Java 11",
+    "path": "codeforces\\1463\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dungeon",
+    "problem_url": "https://codeforces.com/contest/1463/problem/A",
+    "submission_id": "CF104142588",
+    "submission_url": "https://codeforces.com/contest/1463/submission/104142588",
+    "tags": [
+      "binary search",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/13/2021 00:47"
+  },
   "CF104285848": {
     "contest_id": 1473,
     "language": "Java 11",
