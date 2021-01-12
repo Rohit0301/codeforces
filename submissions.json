@@ -1,4 +1,22 @@
 {
+  "CF104141062": {
+    "contest_id": 1466,
+    "language": "Java 11",
+    "path": "codeforces\\1466\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Canine poetry",
+    "problem_url": "https://codeforces.com/contest/1466/problem/C",
+    "submission_id": "CF104141062",
+    "submission_url": "https://codeforces.com/contest/1466/submission/104141062",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Jan/13/2021 00:21"
+  },
   "CF104142588": {
     "contest_id": 1463,
     "language": "Java 11",
