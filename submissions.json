@@ -1,4 +1,21 @@
 {
+  "CF104495978": {
+    "contest_id": 1422,
+    "language": "Java 11",
+    "path": "codeforces\\1422\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fence",
+    "problem_url": "https://codeforces.com/contest/1422/problem/A",
+    "submission_id": "CF104495978",
+    "submission_url": "https://codeforces.com/contest/1422/submission/104495978",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/16/2021 15:33"
+  },
   "CF104502561": {
     "contest_id": 1422,
     "language": "Java 11",
