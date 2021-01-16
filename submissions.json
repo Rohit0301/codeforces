@@ -1,4 +1,21 @@
 {
+  "CF104530214": {
+    "contest_id": 231,
+    "language": "GNU C++17",
+    "path": "codeforces\\231\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Team",
+    "problem_url": "https://codeforces.com/contest/231/problem/A",
+    "submission_id": "CF104530214",
+    "submission_url": "https://codeforces.com/contest/231/submission/104530214",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/16/2021 23:01"
+  },
   "CF104558368": {
     "contest_id": 1426,
     "language": "Java 11",
