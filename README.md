@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-80 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Java 11](./codeforces/1466/B.java) | `dp` `greedy` `*800` | Jan/18/2021 00:42 | 
-79 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [Java 11](./codeforces/1466/A.java) | `brute force` `geometry` `math` `*800` | Jan/18/2021 00:35 | 
-78 | [C - Increase and Copy](https://codeforces.com/contest/1426/problem/C) | [Java 11](./codeforces/1426/C.java) | `binary search` `constructive algorithms` `math` `*1100` | Jan/17/2021 23:30 | 
-77 | [B - Symmetric Matrix](https://codeforces.com/contest/1426/problem/B) | [Java 11](./codeforces/1426/B.java) | `implementation` `*900` | Jan/17/2021 23:16 | 
-76 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [Java 11](./codeforces/1469/A.java) | `constructive algorithms` `greedy` `*1000` | Jan/17/2021 22:57 | 
-75 | [C - Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | [Java 11](./codeforces/1418/C.java) | `dp` `graphs` `greedy` `shortest paths` `*1500` | Jan/17/2021 22:13 | 
+81 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Java 11](./codeforces/1466/B.java) | `dp` `greedy` `*800` | Jan/18/2021 00:42 | 
+80 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [Java 11](./codeforces/1466/A.java) | `brute force` `geometry` `math` `*800` | Jan/18/2021 00:35 | 
+79 | [C - Increase and Copy](https://codeforces.com/contest/1426/problem/C) | [Java 11](./codeforces/1426/C.java) | `binary search` `constructive algorithms` `math` `*1100` | Jan/17/2021 23:30 | 
+78 | [B - Symmetric Matrix](https://codeforces.com/contest/1426/problem/B) | [Java 11](./codeforces/1426/B.java) | `implementation` `*900` | Jan/17/2021 23:16 | 
+77 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [Java 11](./codeforces/1469/A.java) | `constructive algorithms` `greedy` `*1000` | Jan/17/2021 22:57 | 
+76 | [C - Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | [Java 11](./codeforces/1418/C.java) | `dp` `graphs` `greedy` `shortest paths` `*1500` | Jan/17/2021 22:13 | 
+75 | [B - Belted Rooms](https://codeforces.com/contest/1428/problem/B) | [Java 11](./codeforces/1428/B.java) | `graphs` `implementation` `*1200` | Jan/17/2021 17:10 | 
 74 | [A - Floor Number](https://codeforces.com/contest/1426/problem/A) | [Java 11](./codeforces/1426/A.java) | `implementation` `math` `*800` | Jan/17/2021 11:46 | 
 73 | [A - Team](https://codeforces.com/contest/231/problem/A) | [GNU C++17](./codeforces/231/A.cpp) | `brute force` `greedy` `*800` | Jan/16/2021 23:01 | 
 72 | [B - Nice Matrix](https://codeforces.com/contest/1422/problem/B) | [Java 11](./codeforces/1422/B.java) | `greedy` `implementation` `math` `*1300` | Jan/16/2021 16:40 | 
