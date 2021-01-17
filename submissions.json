@@ -581,6 +581,23 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF104613799": {
+    "contest_id": 1466,
+    "language": "Java 11",
+    "path": "codeforces\\1466\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Last minute enhancements",
+    "problem_url": "https://codeforces.com/contest/1466/problem/B",
+    "submission_id": "CF104613799",
+    "submission_url": "https://codeforces.com/contest/1466/submission/104613799",
+    "tags": [
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/18/2021 00:42"
+  },
   "CF85567187": {
     "contest_id": 136,
     "language": "Java 11",
