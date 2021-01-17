@@ -581,6 +581,25 @@
     ],
     "timestamp": "Jan/17/2021 11:46"
   },
+  "CF104604408": {
+    "contest_id": 1418,
+    "language": "Java 11",
+    "path": "codeforces\\1418\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mortal Kombat Tower",
+    "problem_url": "https://codeforces.com/contest/1418/problem/C",
+    "submission_id": "CF104604408",
+    "submission_url": "https://codeforces.com/contest/1418/submission/104604408",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1500"
+    ],
+    "timestamp": "Jan/17/2021 22:13"
+  },
   "CF104607439": {
     "contest_id": 1469,
     "language": "Java 11",
