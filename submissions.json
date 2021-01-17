@@ -1,0 +1,19 @@
+{
+  "CF104558368": {
+    "contest_id": 1426,
+    "language": "Java 11",
+    "path": "codeforces\\1426\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Floor Number",
+    "problem_url": "https://codeforces.com/contest/1426/problem/A",
+    "submission_id": "CF104558368",
+    "submission_url": "https://codeforces.com/contest/1426/submission/104558368",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/17/2021 11:46"
+  }
+}
