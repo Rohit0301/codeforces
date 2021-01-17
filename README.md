@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-76 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Java 11](./codeforces/1466/B.java) | `dp` `greedy` `*800` | Jan/18/2021 00:42 | 
-75 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [Java 11](./codeforces/1466/A.java) | `brute force` `geometry` `math` `*800` | Jan/18/2021 00:35 | 
+77 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Java 11](./codeforces/1466/B.java) | `dp` `greedy` `*800` | Jan/18/2021 00:42 | 
+76 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [Java 11](./codeforces/1466/A.java) | `brute force` `geometry` `math` `*800` | Jan/18/2021 00:35 | 
+75 | [C - Increase and Copy](https://codeforces.com/contest/1426/problem/C) | [Java 11](./codeforces/1426/C.java) | `binary search` `constructive algorithms` `math` `*1100` | Jan/17/2021 23:30 | 
 74 | [A - Floor Number](https://codeforces.com/contest/1426/problem/A) | [Java 11](./codeforces/1426/A.java) | `implementation` `math` `*800` | Jan/17/2021 11:46 | 
 73 | [A - Team](https://codeforces.com/contest/231/problem/A) | [GNU C++17](./codeforces/231/A.cpp) | `brute force` `greedy` `*800` | Jan/16/2021 23:01 | 
 72 | [B - Nice Matrix](https://codeforces.com/contest/1422/problem/B) | [Java 11](./codeforces/1422/B.java) | `greedy` `implementation` `math` `*1300` | Jan/16/2021 16:40 | 
