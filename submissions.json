@@ -703,6 +703,22 @@
     ],
     "timestamp": "Jan/18/2021 00:42"
   },
+  "CF104681172": {
+    "contest_id": 1453,
+    "language": "Java 11",
+    "path": "codeforces\\1453\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cancel the Trains",
+    "problem_url": "https://codeforces.com/contest/1453/problem/A",
+    "submission_id": "CF104681172",
+    "submission_url": "https://codeforces.com/contest/1453/submission/104681172",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/18/2021 17:07"
+  },
   "CF104681757": {
     "contest_id": 1445,
     "language": "Java 11",
