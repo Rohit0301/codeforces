@@ -792,6 +792,23 @@
     ],
     "timestamp": "Jan/18/2021 19:54"
   },
+  "CF104851812": {
+    "contest_id": 1436,
+    "language": "Java 11",
+    "path": "codeforces\\1436\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prime Square",
+    "problem_url": "https://codeforces.com/contest/1436/problem/B",
+    "submission_id": "CF104851812",
+    "submission_url": "https://codeforces.com/contest/1436/submission/104851812",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jan/20/2021 01:37"
+  },
   "CF104888097": {
     "contest_id": 445,
     "language": "Java 11",
