@@ -12,18 +12,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-98 | [A - Specific Tastes of Andre ](https://codeforces.com/contest/1438/problem/A) | [Java 11](./codeforces/1438/A.java) | `constructive algorithms` `implementation` `*800` | Jan/20/2021 23:25 | 
-97 | [C - Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | [Java 11](./codeforces/1430/C.java) | `constructive algorithms` `data structures` `greedy` `implementation` `math` `*1000` | Jan/20/2021 23:04 | 
-96 | [B - Sail](https://codeforces.com/contest/298/problem/B) | [Java 11](./codeforces/298/B.java) | `brute force` `greedy` `implementation` `*1200` | Jan/20/2021 20:38 | 
-95 | [B - Jeff and Periods](https://codeforces.com/contest/352/problem/B) | [Java 11](./codeforces/352/B.java) | `implementation` `sortings` `*1300` | Jan/20/2021 19:32 | 
-94 | [B - Chess Cheater](https://codeforces.com/contest/1427/problem/B) | [Java 11](./codeforces/1427/B.java) | `greedy` `implementation` `sortings` `*1400` | Jan/20/2021 17:35 | 
-93 | [A - Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | [Java 11](./codeforces/433/A.java) | `brute force` `implementation` `*1100` | Jan/20/2021 14:59 | 
-92 | [A - Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | [Java 11](./codeforces/342/A.java) | `greedy` `implementation` `*1200` | Jan/20/2021 14:48 | 
-91 | [A - DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | [Java 11](./codeforces/445/A.java) | `dfs and similar` `implementation` `*1200` | Jan/20/2021 14:27 | 
-90 | [B - Prime Square](https://codeforces.com/contest/1436/problem/B) | [Java 11](./codeforces/1436/B.java) | `constructive algorithms` `math` `*900` | Jan/20/2021 01:37 | 
-89 | [A - Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) | [Java 11](./codeforces/1474/A.java) | `greedy` | Jan/19/2021 20:48 | 
-88 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [Java 11](./codeforces/1474/B.java) | `binary search` `constructive algorithms` `greedy` `math` `number theory` | Jan/19/2021 20:29 | 
-87 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [Java 11](./codeforces/1437/A.java) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Jan/19/2021 19:02 | 
+99 | [A - Specific Tastes of Andre ](https://codeforces.com/contest/1438/problem/A) | [Java 11](./codeforces/1438/A.java) | `constructive algorithms` `implementation` `*800` | Jan/20/2021 23:25 | 
+98 | [C - Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | [Java 11](./codeforces/1430/C.java) | `constructive algorithms` `data structures` `greedy` `implementation` `math` `*1000` | Jan/20/2021 23:04 | 
+97 | [B - Sail](https://codeforces.com/contest/298/problem/B) | [Java 11](./codeforces/298/B.java) | `brute force` `greedy` `implementation` `*1200` | Jan/20/2021 20:38 | 
+96 | [B - Jeff and Periods](https://codeforces.com/contest/352/problem/B) | [Java 11](./codeforces/352/B.java) | `implementation` `sortings` `*1300` | Jan/20/2021 19:32 | 
+95 | [B - Chess Cheater](https://codeforces.com/contest/1427/problem/B) | [Java 11](./codeforces/1427/B.java) | `greedy` `implementation` `sortings` `*1400` | Jan/20/2021 17:35 | 
+94 | [A - Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | [Java 11](./codeforces/433/A.java) | `brute force` `implementation` `*1100` | Jan/20/2021 14:59 | 
+93 | [A - Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | [Java 11](./codeforces/342/A.java) | `greedy` `implementation` `*1200` | Jan/20/2021 14:48 | 
+92 | [A - DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | [Java 11](./codeforces/445/A.java) | `dfs and similar` `implementation` `*1200` | Jan/20/2021 14:27 | 
+91 | [B - Prime Square](https://codeforces.com/contest/1436/problem/B) | [Java 11](./codeforces/1436/B.java) | `constructive algorithms` `math` `*900` | Jan/20/2021 01:37 | 
+90 | [A - Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) | [Java 11](./codeforces/1474/A.java) | `greedy` | Jan/19/2021 20:48 | 
+89 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [Java 11](./codeforces/1474/B.java) | `binary search` `constructive algorithms` `greedy` `math` `number theory` | Jan/19/2021 20:29 | 
+88 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [Java 11](./codeforces/1437/A.java) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Jan/19/2021 19:02 | 
+87 | [C - String Equality](https://codeforces.com/contest/1451/problem/C) | [Java 11](./codeforces/1451/C.java) | `dp` `greedy` `hashing` `implementation` `strings` `*1400` | Jan/19/2021 12:17 | 
 86 | [B - Toy Blocks](https://codeforces.com/contest/1452/problem/B) | [Java 11](./codeforces/1452/B.java) | `binary search` `greedy` `math` `sortings` `*1400` | Jan/18/2021 19:54 | 
 85 | [B - Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) | [Java 11](./codeforces/1108/B.java) | `brute force` `greedy` `math` `number theory` `*1100` | Jan/18/2021 18:57 | 
 84 | [B - Barrels](https://codeforces.com/contest/1430/problem/B) | [Java 11](./codeforces/1430/B.java) | `greedy` `implementation` `sortings` `*800` | Jan/18/2021 18:45 | 
