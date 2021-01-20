@@ -792,6 +792,24 @@
     ],
     "timestamp": "Jan/18/2021 19:54"
   },
+  "CF104916369": {
+    "contest_id": 298,
+    "language": "Java 11",
+    "path": "codeforces\\298\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sail",
+    "problem_url": "https://codeforces.com/contest/298/problem/B",
+    "submission_id": "CF104916369",
+    "submission_url": "https://codeforces.com/contest/298/submission/104916369",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jan/20/2021 20:38"
+  },
   "CF104928546": {
     "contest_id": 1430,
     "language": "Java 11",
