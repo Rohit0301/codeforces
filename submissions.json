@@ -1023,6 +1023,23 @@
     ],
     "timestamp": "Jan/20/2021 23:25"
   },
+  "CF104931630": {
+    "contest_id": 1409,
+    "language": "Java 11",
+    "path": "codeforces\\1409\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Two Integers Problem",
+    "problem_url": "https://codeforces.com/contest/1409/problem/A",
+    "submission_id": "CF104931630",
+    "submission_url": "https://codeforces.com/contest/1409/submission/104931630",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/20/2021 23:45"
+  },
   "CF85567187": {
     "contest_id": 136,
     "language": "Java 11",
