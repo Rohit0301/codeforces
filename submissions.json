@@ -792,6 +792,23 @@
     ],
     "timestamp": "Jan/18/2021 19:54"
   },
+  "CF104889603": {
+    "contest_id": 342,
+    "language": "Java 11",
+    "path": "codeforces\\342\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Xenia and Divisors",
+    "problem_url": "https://codeforces.com/contest/342/problem/A",
+    "submission_id": "CF104889603",
+    "submission_url": "https://codeforces.com/contest/342/submission/104889603",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jan/20/2021 14:48"
+  },
   "CF104890361": {
     "contest_id": 433,
     "language": "Java 11",
