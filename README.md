@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-106 | [A - Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | [Java 11](./codeforces/296/A.java) | `greedy` `math` `*1100` | Jan/21/2021 23:34 | 
-105 | [A - Cubes Sorting](https://codeforces.com/contest/1420/problem/A) | [Java 11](./codeforces/1420/A.java) | `math` `sortings` `*900` | Jan/21/2021 23:19 | 
-104 | [C - Palindromifier](https://codeforces.com/contest/1421/problem/C) | [Java 11](./codeforces/1421/C.java) | `constructive algorithms` `strings` `*1400` | Jan/21/2021 23:00 | 
-103 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [Java 11](./codeforces/1421/A.java) | `bitmasks` `greedy` `math` `*800` | Jan/21/2021 22:14 | 
-102 | [C - ABBB](https://codeforces.com/contest/1428/problem/C) | [Java 11](./codeforces/1428/C.java) | `brute force` `data structures` `greedy` `strings` `*1100` | Jan/21/2021 21:53 | 
-101 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [Java 11](./codeforces/1438/B.java) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Jan/21/2021 17:50 | 
+107 | [A - Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | [Java 11](./codeforces/296/A.java) | `greedy` `math` `*1100` | Jan/21/2021 23:34 | 
+106 | [A - Cubes Sorting](https://codeforces.com/contest/1420/problem/A) | [Java 11](./codeforces/1420/A.java) | `math` `sortings` `*900` | Jan/21/2021 23:19 | 
+105 | [C - Palindromifier](https://codeforces.com/contest/1421/problem/C) | [Java 11](./codeforces/1421/C.java) | `constructive algorithms` `strings` `*1400` | Jan/21/2021 23:00 | 
+104 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [Java 11](./codeforces/1421/A.java) | `bitmasks` `greedy` `math` `*800` | Jan/21/2021 22:14 | 
+103 | [C - ABBB](https://codeforces.com/contest/1428/problem/C) | [Java 11](./codeforces/1428/C.java) | `brute force` `data structures` `greedy` `strings` `*1100` | Jan/21/2021 21:53 | 
+102 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [Java 11](./codeforces/1438/B.java) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Jan/21/2021 17:50 | 
+101 | [B - Reverse Binary Strings](https://codeforces.com/contest/1437/problem/B) | [Java 11](./codeforces/1437/B.java) | `constructive algorithms` `greedy` `*1200` | Jan/21/2021 15:15 | 
 100 | [A - Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | [Java 11](./codeforces/1409/A.java) | `greedy` `math` `*800` | Jan/20/2021 23:45 | 
 99 | [A - Specific Tastes of Andre ](https://codeforces.com/contest/1438/problem/A) | [Java 11](./codeforces/1438/A.java) | `constructive algorithms` `implementation` `*800` | Jan/20/2021 23:25 | 
 98 | [C - Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | [Java 11](./codeforces/1430/C.java) | `constructive algorithms` `data structures` `greedy` `implementation` `math` `*1000` | Jan/20/2021 23:04 | 
