@@ -1164,6 +1164,22 @@
     ],
     "timestamp": "Jan/21/2021 23:34"
   },
+  "CF105071408": {
+    "contest_id": 1418,
+    "language": "Java 11",
+    "path": "codeforces\\1418\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buying Torches",
+    "problem_url": "https://codeforces.com/contest/1418/problem/A",
+    "submission_id": "CF105071408",
+    "submission_url": "https://codeforces.com/contest/1418/submission/105071408",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/22/2021 19:52"
+  },
   "CF105087772": {
     "contest_id": 1415,
     "language": "Java 11",

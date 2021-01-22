@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-109 | [A - Finding Sasuke](https://codeforces.com/contest/1413/problem/A) | [Java 11](./codeforces/1413/A.java) | `constructive algorithms` `math` `*800` | Jan/22/2021 23:29 | 
-108 | [B - Repainting Street](https://codeforces.com/contest/1415/problem/B) | [Java 11](./codeforces/1415/B.java) | `brute force` `brute force` `greedy` `*1100` | Jan/22/2021 23:12 | 
+110 | [A - Finding Sasuke](https://codeforces.com/contest/1413/problem/A) | [Java 11](./codeforces/1413/A.java) | `constructive algorithms` `math` `*800` | Jan/22/2021 23:29 | 
+109 | [B - Repainting Street](https://codeforces.com/contest/1415/problem/B) | [Java 11](./codeforces/1415/B.java) | `brute force` `brute force` `greedy` `*1100` | Jan/22/2021 23:12 | 
+108 | [A - Buying Torches](https://codeforces.com/contest/1418/problem/A) | [Java 11](./codeforces/1418/A.java) | `math` `*1000` | Jan/22/2021 19:52 | 
 107 | [A - Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | [Java 11](./codeforces/296/A.java) | `greedy` `math` `*1100` | Jan/21/2021 23:34 | 
 106 | [A - Cubes Sorting](https://codeforces.com/contest/1420/problem/A) | [Java 11](./codeforces/1420/A.java) | `math` `sortings` `*900` | Jan/21/2021 23:19 | 
 105 | [C - Palindromifier](https://codeforces.com/contest/1421/problem/C) | [Java 11](./codeforces/1421/C.java) | `constructive algorithms` `strings` `*1400` | Jan/21/2021 23:00 | 
