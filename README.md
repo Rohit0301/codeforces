@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-113 | [A - Finding Sasuke](https://codeforces.com/contest/1413/problem/A) | [Java 11](./codeforces/1413/A.java) | `constructive algorithms` `math` `*800` | Jan/22/2021 23:29 | 
-112 | [B - Repainting Street](https://codeforces.com/contest/1415/problem/B) | [Java 11](./codeforces/1415/B.java) | `brute force` `brute force` `greedy` `*1100` | Jan/22/2021 23:12 | 
-111 | [A - Buying Torches](https://codeforces.com/contest/1418/problem/A) | [Java 11](./codeforces/1418/A.java) | `math` `*1000` | Jan/22/2021 19:52 | 
-110 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [Java 11](./codeforces/1420/B.java) | `bitmasks` `math` `*1200` | Jan/22/2021 18:55 | 
-109 | [A - TL](https://codeforces.com/contest/350/problem/A) | [Java 11](./codeforces/350/A.java) | `brute force` `greedy` `implementation` `*1200` | Jan/22/2021 18:36 | 
-108 | [A - Box is Pull](https://codeforces.com/contest/1428/problem/A) | [Java 11](./codeforces/1428/A.java) | `math` `*800` | Jan/22/2021 11:04 | 
+114 | [A - Finding Sasuke](https://codeforces.com/contest/1413/problem/A) | [Java 11](./codeforces/1413/A.java) | `constructive algorithms` `math` `*800` | Jan/22/2021 23:29 | 
+113 | [B - Repainting Street](https://codeforces.com/contest/1415/problem/B) | [Java 11](./codeforces/1415/B.java) | `brute force` `brute force` `greedy` `*1100` | Jan/22/2021 23:12 | 
+112 | [A - Buying Torches](https://codeforces.com/contest/1418/problem/A) | [Java 11](./codeforces/1418/A.java) | `math` `*1000` | Jan/22/2021 19:52 | 
+111 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [Java 11](./codeforces/1420/B.java) | `bitmasks` `math` `*1200` | Jan/22/2021 18:55 | 
+110 | [A - TL](https://codeforces.com/contest/350/problem/A) | [Java 11](./codeforces/350/A.java) | `brute force` `greedy` `implementation` `*1200` | Jan/22/2021 18:36 | 
+109 | [A - Box is Pull](https://codeforces.com/contest/1428/problem/A) | [Java 11](./codeforces/1428/A.java) | `math` `*800` | Jan/22/2021 11:04 | 
+108 | [A - Number of Apartments](https://codeforces.com/contest/1430/problem/A) | [Java 11](./codeforces/1430/A.java) | `brute force` `constructive algorithms` `math` `*900` | Jan/22/2021 10:40 | 
 107 | [A - Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | [Java 11](./codeforces/296/A.java) | `greedy` `math` `*1100` | Jan/21/2021 23:34 | 
 106 | [A - Cubes Sorting](https://codeforces.com/contest/1420/problem/A) | [Java 11](./codeforces/1420/A.java) | `math` `sortings` `*900` | Jan/21/2021 23:19 | 
 105 | [C - Palindromifier](https://codeforces.com/contest/1421/problem/C) | [Java 11](./codeforces/1421/C.java) | `constructive algorithms` `strings` `*1400` | Jan/21/2021 23:00 | 
