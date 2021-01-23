@@ -1284,6 +1284,23 @@
     ],
     "timestamp": "Jan/22/2021 23:29"
   },
+  "CF105150465": {
+    "contest_id": 405,
+    "language": "Java 11",
+    "path": "codeforces\\405\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Unusual Product",
+    "problem_url": "https://codeforces.com/contest/405/problem/C",
+    "submission_id": "CF105150465",
+    "submission_url": "https://codeforces.com/contest/405/submission/105150465",
+    "tags": [
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/23/2021 18:05"
+  },
   "CF105157644": {
     "contest_id": 1400,
     "language": "Java 11",
