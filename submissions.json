@@ -1284,6 +1284,26 @@
     ],
     "timestamp": "Jan/22/2021 23:29"
   },
+  "CF105138870": {
+    "contest_id": 289,
+    "language": "Java 11",
+    "path": "codeforces\\289\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Polo the Penguin and Matrix",
+    "problem_url": "https://codeforces.com/contest/289/problem/B",
+    "submission_id": "CF105138870",
+    "submission_url": "https://codeforces.com/contest/289/submission/105138870",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "sortings",
+      "ternary search",
+      "*1400"
+    ],
+    "timestamp": "Jan/23/2021 15:16"
+  },
   "CF105142956": {
     "contest_id": 451,
     "language": "Java 11",
