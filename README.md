@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-119 | [B - Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | [Java 11](./codeforces/1398/B.java) | `games` `greedy` `sortings` `*800` | Jan/23/2021 20:41 | 
-118 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [Java 11](./codeforces/1398/A.java) | `geometry` `math` `*800` | Jan/23/2021 20:33 | 
-117 | [C - Binary String Reconstruction](https://codeforces.com/contest/1400/problem/C) | [Java 11](./codeforces/1400/C.java) | `2-sat` `brute force` `constructive algorithms` `greedy` `*1500` | Jan/23/2021 19:41 | 
-116 | [C - Unusual Product](https://codeforces.com/contest/405/problem/C) | [Java 11](./codeforces/405/C.java) | `implementation` `math` `*1600` | Jan/23/2021 18:05 | 
-115 | [B - Appleman and Card Game](https://codeforces.com/contest/462/problem/B) | [Java 11](./codeforces/462/B.java) | `greedy` `*1300` | Jan/23/2021 16:39 | 
+120 | [B - Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | [Java 11](./codeforces/1398/B.java) | `games` `greedy` `sortings` `*800` | Jan/23/2021 20:41 | 
+119 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [Java 11](./codeforces/1398/A.java) | `geometry` `math` `*800` | Jan/23/2021 20:33 | 
+118 | [C - Binary String Reconstruction](https://codeforces.com/contest/1400/problem/C) | [Java 11](./codeforces/1400/C.java) | `2-sat` `brute force` `constructive algorithms` `greedy` `*1500` | Jan/23/2021 19:41 | 
+117 | [C - Unusual Product](https://codeforces.com/contest/405/problem/C) | [Java 11](./codeforces/405/C.java) | `implementation` `math` `*1600` | Jan/23/2021 18:05 | 
+116 | [B - Appleman and Card Game](https://codeforces.com/contest/462/problem/B) | [Java 11](./codeforces/462/B.java) | `greedy` `*1300` | Jan/23/2021 16:39 | 
+115 | [B - Sort the Array](https://codeforces.com/contest/451/problem/B) | [Java 11](./codeforces/451/B.java) | `implementation` `sortings` `*1300` | Jan/23/2021 16:15 | 
 114 | [A - Finding Sasuke](https://codeforces.com/contest/1413/problem/A) | [Java 11](./codeforces/1413/A.java) | `constructive algorithms` `math` `*800` | Jan/22/2021 23:29 | 
 113 | [B - Repainting Street](https://codeforces.com/contest/1415/problem/B) | [Java 11](./codeforces/1415/B.java) | `brute force` `brute force` `greedy` `*1100` | Jan/22/2021 23:12 | 
 112 | [A - Buying Torches](https://codeforces.com/contest/1418/problem/A) | [Java 11](./codeforces/1418/A.java) | `math` `*1000` | Jan/22/2021 19:52 | 
