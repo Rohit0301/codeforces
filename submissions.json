@@ -1284,6 +1284,25 @@
     ],
     "timestamp": "Jan/22/2021 23:29"
   },
+  "CF105157644": {
+    "contest_id": 1400,
+    "language": "Java 11",
+    "path": "codeforces\\1400\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Binary String Reconstruction",
+    "problem_url": "https://codeforces.com/contest/1400/problem/C",
+    "submission_id": "CF105157644",
+    "submission_url": "https://codeforces.com/contest/1400/submission/105157644",
+    "tags": [
+      "2-sat",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jan/23/2021 19:41"
+  },
   "CF105161828": {
     "contest_id": 1398,
     "language": "Java 11",
