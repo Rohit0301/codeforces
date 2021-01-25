@@ -1459,6 +1459,22 @@
     ],
     "timestamp": "Jan/24/2021 12:02"
   },
+  "CF105402572": {
+    "contest_id": 1475,
+    "language": "Java 11",
+    "path": "codeforces\\1475\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Year's Number",
+    "problem_url": "https://codeforces.com/contest/1475/problem/B",
+    "submission_id": "CF105402572",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105402572",
+    "tags": [
+      "dp",
+      "math"
+    ],
+    "timestamp": "Jan/25/2021 22:47"
+  },
   "CF105403884": {
     "contest_id": 287,
     "language": "Java 11",
