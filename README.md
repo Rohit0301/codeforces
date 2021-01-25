@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-127 | [A - Cinema Line](https://codeforces.com/contest/349/problem/A) | [Java 11](./codeforces/349/A.java) | `greedy` `implementation` `*1100` | Jan/25/2021 23:18 | 
-126 | [A - IQ Test](https://codeforces.com/contest/287/problem/A) | [Java 11](./codeforces/287/A.java) | `brute force` `implementation` `*1100` | Jan/25/2021 22:55 | 
-125 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [Java 11](./codeforces/1475/B.java) | `dp` `math` | Jan/25/2021 22:47 | 
+128 | [A - Cinema Line](https://codeforces.com/contest/349/problem/A) | [Java 11](./codeforces/349/A.java) | `greedy` `implementation` `*1100` | Jan/25/2021 23:18 | 
+127 | [A - IQ Test](https://codeforces.com/contest/287/problem/A) | [Java 11](./codeforces/287/A.java) | `brute force` `implementation` `*1100` | Jan/25/2021 22:55 | 
+126 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [Java 11](./codeforces/1475/B.java) | `dp` `math` | Jan/25/2021 22:47 | 
+125 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [Java 11](./codeforces/1475/A.java) | `math` `number theory` | Jan/25/2021 22:39 | 
 124 | [B - Minimum Product](https://codeforces.com/contest/1409/problem/B) | [Java 11](./codeforces/1409/B.java) | `brute force` `greedy` `math` `*1100` | Jan/24/2021 12:02 | 
 123 | [A - Ahahahahahahahaha](https://codeforces.com/contest/1407/problem/A) | [Java 11](./codeforces/1407/A.java) | `constructive algorithms` `math` `*1100` | Jan/24/2021 11:13 | 
 122 | [B - Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | [Java 11](./codeforces/1398/B.java) | `games` `greedy` `sortings` `*800` | Jan/23/2021 20:41 | 
