@@ -1459,6 +1459,22 @@
     ],
     "timestamp": "Jan/24/2021 12:02"
   },
+  "CF105399481": {
+    "contest_id": 315,
+    "language": "Java 11",
+    "path": "codeforces\\315\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Bottles",
+    "problem_url": "https://codeforces.com/contest/315/problem/A",
+    "submission_id": "CF105399481",
+    "submission_url": "https://codeforces.com/contest/315/submission/105399481",
+    "tags": [
+      "brute force",
+      "*1400"
+    ],
+    "timestamp": "Jan/25/2021 22:30"
+  },
   "CF105401062": {
     "contest_id": 1475,
     "language": "Java 11",
