@@ -1561,6 +1561,24 @@
     ],
     "timestamp": "Jan/25/2021 23:18"
   },
+  "CF105483630": {
+    "contest_id": 486,
+    "language": "Java 11",
+    "path": "codeforces\\486\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "OR in Matrix",
+    "problem_url": "https://codeforces.com/contest/486/problem/B",
+    "submission_id": "CF105483630",
+    "submission_url": "https://codeforces.com/contest/486/submission/105483630",
+    "tags": [
+      "greedy",
+      "hashing",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/26/2021 19:04"
+  },
   "CF105486676": {
     "contest_id": 1020,
     "language": "Java 11",
