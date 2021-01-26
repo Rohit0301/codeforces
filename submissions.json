@@ -1561,6 +1561,25 @@
     ],
     "timestamp": "Jan/25/2021 23:18"
   },
+  "CF105505119": {
+    "contest_id": 1475,
+    "language": "Java 11",
+    "path": "codeforces\\1475\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ball in Berland",
+    "problem_url": "https://codeforces.com/contest/1475/problem/C",
+    "submission_id": "CF105505119",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105505119",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "hashing",
+      "math"
+    ],
+    "timestamp": "Jan/26/2021 23:04"
+  },
   "CF105506320": {
     "contest_id": 237,
     "language": "Java 11",
