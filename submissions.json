@@ -1632,6 +1632,24 @@
     ],
     "timestamp": "Jan/26/2021 23:21"
   },
+  "CF106218247": {
+    "contest_id": 888,
+    "language": "Java 11",
+    "path": "codeforces\\888\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "K-Dominant Character",
+    "problem_url": "https://codeforces.com/contest/888/problem/C",
+    "submission_id": "CF106218247",
+    "submission_url": "https://codeforces.com/contest/888/submission/106218247",
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Feb/01/2021 23:20"
+  },
   "CF106521388": {
     "contest_id": 681,
     "language": "Java 11",

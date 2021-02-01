@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-138 | [C - Soldier and Cards](https://codeforces.com/contest/546/problem/C) | [Java 11](./codeforces/546/C.java) | `brute force` `dfs and similar` `games` `*1400` | Feb/05/2021 18:40 | 
-137 | [B - Amr and The Large Array](https://codeforces.com/contest/558/problem/B) | [Java 11](./codeforces/558/B.java) | `implementation` `*1300` | Feb/05/2021 17:44 | 
-136 | [B - More Cowbell](https://codeforces.com/contest/604/problem/B) | [Java 11](./codeforces/604/B.java) | `binary search` `greedy` `*1400` | Feb/05/2021 16:15 | 
-135 | [B - Economy Game](https://codeforces.com/contest/681/problem/B) | [Java 11](./codeforces/681/B.java) | `brute force` `*1300` | Feb/05/2021 15:37 | 
+139 | [C - Soldier and Cards](https://codeforces.com/contest/546/problem/C) | [Java 11](./codeforces/546/C.java) | `brute force` `dfs and similar` `games` `*1400` | Feb/05/2021 18:40 | 
+138 | [B - Amr and The Large Array](https://codeforces.com/contest/558/problem/B) | [Java 11](./codeforces/558/B.java) | `implementation` `*1300` | Feb/05/2021 17:44 | 
+137 | [B - More Cowbell](https://codeforces.com/contest/604/problem/B) | [Java 11](./codeforces/604/B.java) | `binary search` `greedy` `*1400` | Feb/05/2021 16:15 | 
+136 | [B - Economy Game](https://codeforces.com/contest/681/problem/B) | [Java 11](./codeforces/681/B.java) | `brute force` `*1300` | Feb/05/2021 15:37 | 
+135 | [C - K-Dominant Character](https://codeforces.com/contest/888/problem/C) | [Java 11](./codeforces/888/C.java) | `binary search` `implementation` `two pointers` `*1400` | Feb/01/2021 23:20 | 
 134 | [A - Free Cash](https://codeforces.com/contest/237/problem/A) | [Java 11](./codeforces/237/A.java) | `implementation` `*1000` | Jan/26/2021 23:21 | 
 133 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [Java 11](./codeforces/1475/C.java) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/26/2021 23:04 | 
 132 | [B - Badge](https://codeforces.com/contest/1020/problem/B) | [Java 11](./codeforces/1020/B.java) | `brute force` `dfs and similar` `graphs` `*1000` | Jan/26/2021 19:35 | 
