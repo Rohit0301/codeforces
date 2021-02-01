@@ -1632,6 +1632,22 @@
     ],
     "timestamp": "Jan/26/2021 23:21"
   },
+  "CF106212957": {
+    "contest_id": 617,
+    "language": "Java 11",
+    "path": "codeforces\\617\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elephant",
+    "problem_url": "https://codeforces.com/contest/617/problem/A",
+    "submission_id": "CF106212957",
+    "submission_url": "https://codeforces.com/contest/617/submission/106212957",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/01/2021 22:21"
+  },
   "CF106218247": {
     "contest_id": 888,
     "language": "Java 11",
