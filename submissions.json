@@ -1632,6 +1632,22 @@
     ],
     "timestamp": "Jan/26/2021 23:21"
   },
+  "CF106529250": {
+    "contest_id": 558,
+    "language": "Java 11",
+    "path": "codeforces\\558\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Amr and The Large Array",
+    "problem_url": "https://codeforces.com/contest/558/problem/B",
+    "submission_id": "CF106529250",
+    "submission_url": "https://codeforces.com/contest/558/submission/106529250",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Feb/05/2021 17:44"
+  },
   "CF106533100": {
     "contest_id": 546,
     "language": "Java 11",
