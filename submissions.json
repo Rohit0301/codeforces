@@ -1632,6 +1632,24 @@
     ],
     "timestamp": "Jan/26/2021 23:21"
   },
+  "CF106533100": {
+    "contest_id": 546,
+    "language": "Java 11",
+    "path": "codeforces\\546\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Soldier and Cards",
+    "problem_url": "https://codeforces.com/contest/546/problem/C",
+    "submission_id": "CF106533100",
+    "submission_url": "https://codeforces.com/contest/546/submission/106533100",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "games",
+      "*1400"
+    ],
+    "timestamp": "Feb/05/2021 18:40"
+  },
   "CF85567187": {
     "contest_id": 136,
     "language": "Java 11",

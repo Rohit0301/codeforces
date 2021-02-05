@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+135 | [C - Soldier and Cards](https://codeforces.com/contest/546/problem/C) | [Java 11](./codeforces/546/C.java) | `brute force` `dfs and similar` `games` `*1400` | Feb/05/2021 18:40 | 
 134 | [A - Free Cash](https://codeforces.com/contest/237/problem/A) | [Java 11](./codeforces/237/A.java) | `implementation` `*1000` | Jan/26/2021 23:21 | 
 133 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [Java 11](./codeforces/1475/C.java) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/26/2021 23:04 | 
 132 | [B - Badge](https://codeforces.com/contest/1020/problem/B) | [Java 11](./codeforces/1020/B.java) | `brute force` `dfs and similar` `graphs` `*1000` | Jan/26/2021 19:35 | 
