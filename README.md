@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-150 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` | Feb/16/2021 22:36 | 
-149 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` | Feb/16/2021 21:29 | 
-148 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [Java 11](./codeforces/1490/C.java) | `binary search` `brute force` `brute force` `math` `math` | Feb/16/2021 20:53 | 
-147 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [Java 11](./codeforces/1490/B.java) | `brute force` `constructive algorithms` `math` | Feb/16/2021 20:34 | 
-146 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [Java 11](./codeforces/1490/A.java) | `greedy` `math` | Feb/16/2021 20:17 | 
-145 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [Java 11](./codeforces/1487/B.java) | `math` `number theory` `*1200` | Feb/15/2021 21:51 | 
-144 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [Java 11](./codeforces/1487/A.java) | `implementation` `sortings` `*800` | Feb/15/2021 20:10 | 
-143 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [Java 11](./codeforces/1480/B.java) | `greedy` `implementation` `sortings` `*900` | Feb/07/2021 21:14 | 
-142 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [Java 11](./codeforces/1480/A.java) | `games` `greedy` `strings` `*800` | Feb/07/2021 20:11 | 
+151 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` | Feb/16/2021 22:36 | 
+150 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` | Feb/16/2021 21:29 | 
+149 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [Java 11](./codeforces/1490/C.java) | `binary search` `brute force` `brute force` `math` `math` | Feb/16/2021 20:53 | 
+148 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [Java 11](./codeforces/1490/B.java) | `brute force` `constructive algorithms` `math` | Feb/16/2021 20:34 | 
+147 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [Java 11](./codeforces/1490/A.java) | `greedy` `math` | Feb/16/2021 20:17 | 
+146 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [Java 11](./codeforces/1487/B.java) | `math` `number theory` `*1200` | Feb/15/2021 21:51 | 
+145 | [A - Arena](https://codeforces.com/contest/1487/problem/A) | [Java 11](./codeforces/1487/A.java) | `implementation` `sortings` `*800` | Feb/15/2021 20:10 | 
+144 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [Java 11](./codeforces/1480/B.java) | `greedy` `implementation` `sortings` `*900` | Feb/07/2021 21:14 | 
+143 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [Java 11](./codeforces/1480/A.java) | `games` `greedy` `strings` `*800` | Feb/07/2021 20:11 | 
+142 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [Java 11](./codeforces/1481/B.java) | `brute force` `greedy` `implementation` `*1100` | Feb/05/2021 20:50 | 
 141 | [C - Soldier and Cards](https://codeforces.com/contest/546/problem/C) | [Java 11](./codeforces/546/C.java) | `brute force` `dfs and similar` `games` `*1400` | Feb/05/2021 18:40 | 
 140 | [B - Amr and The Large Array](https://codeforces.com/contest/558/problem/B) | [Java 11](./codeforces/558/B.java) | `implementation` `*1300` | Feb/05/2021 17:44 | 
 139 | [B - More Cowbell](https://codeforces.com/contest/604/problem/B) | [Java 11](./codeforces/604/B.java) | `binary search` `greedy` `*1400` | Feb/05/2021 16:15 | 
