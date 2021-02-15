@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-146 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` | Feb/16/2021 22:36 | 
-145 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` | Feb/16/2021 21:29 | 
-144 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [Java 11](./codeforces/1490/C.java) | `binary search` `brute force` `brute force` `math` `math` | Feb/16/2021 20:53 | 
-143 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [Java 11](./codeforces/1490/B.java) | `brute force` `constructive algorithms` `math` | Feb/16/2021 20:34 | 
-142 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [Java 11](./codeforces/1490/A.java) | `greedy` `math` | Feb/16/2021 20:17 | 
+147 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` | Feb/16/2021 22:36 | 
+146 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` | Feb/16/2021 21:29 | 
+145 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [Java 11](./codeforces/1490/C.java) | `binary search` `brute force` `brute force` `math` `math` | Feb/16/2021 20:53 | 
+144 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [Java 11](./codeforces/1490/B.java) | `brute force` `constructive algorithms` `math` | Feb/16/2021 20:34 | 
+143 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [Java 11](./codeforces/1490/A.java) | `greedy` `math` | Feb/16/2021 20:17 | 
+142 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [Java 11](./codeforces/1487/B.java) | `math` `number theory` `*1200` | Feb/15/2021 21:51 | 
 141 | [C - Soldier and Cards](https://codeforces.com/contest/546/problem/C) | [Java 11](./codeforces/546/C.java) | `brute force` `dfs and similar` `games` `*1400` | Feb/05/2021 18:40 | 
 140 | [B - Amr and The Large Array](https://codeforces.com/contest/558/problem/B) | [Java 11](./codeforces/558/B.java) | `implementation` `*1300` | Feb/05/2021 17:44 | 
 139 | [B - More Cowbell](https://codeforces.com/contest/604/problem/B) | [Java 11](./codeforces/604/B.java) | `binary search` `greedy` `*1400` | Feb/05/2021 16:15 | 
