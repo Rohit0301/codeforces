@@ -1751,6 +1751,25 @@
     ],
     "timestamp": "Feb/05/2021 18:40"
   },
+  "CF107571875": {
+    "contest_id": 1490,
+    "language": "Java 11",
+    "path": "codeforces\\1490\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sum of Cubes",
+    "problem_url": "https://codeforces.com/contest/1490/problem/C",
+    "submission_id": "CF107571875",
+    "submission_url": "https://codeforces.com/contest/1490/submission/107571875",
+    "tags": [
+      "binary search",
+      "brute force",
+      "brute force",
+      "math",
+      "math"
+    ],
+    "timestamp": "Feb/16/2021 20:53"
+  },
   "CF107594758": {
     "contest_id": 1490,
     "language": "Java 11",
