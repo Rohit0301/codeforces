@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-142 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` | Feb/16/2021 22:36 | 
+143 | [E - Accidental Victory](https://codeforces.com/contest/1490/problem/E) | [Java 11](./codeforces/1490/E.java) | `binary search` `data structures` `greedy` | Feb/16/2021 22:36 | 
+142 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [Java 11](./codeforces/1490/D.java) | `dfs and similar` `divide and conquer` `implementation` | Feb/16/2021 21:29 | 
 141 | [C - Soldier and Cards](https://codeforces.com/contest/546/problem/C) | [Java 11](./codeforces/546/C.java) | `brute force` `dfs and similar` `games` `*1400` | Feb/05/2021 18:40 | 
 140 | [B - Amr and The Large Array](https://codeforces.com/contest/558/problem/B) | [Java 11](./codeforces/558/B.java) | `implementation` `*1300` | Feb/05/2021 17:44 | 
 139 | [B - More Cowbell](https://codeforces.com/contest/604/problem/B) | [Java 11](./codeforces/604/B.java) | `binary search` `greedy` `*1400` | Feb/05/2021 16:15 | 
