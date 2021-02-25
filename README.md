@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+156 | [A - Suborrays](https://codeforces.com/contest/1391/problem/A) | [Java 11](./codeforces/1391/A.java) | `constructive algorithms` `math` `*800` | Feb/25/2021 09:25 | 
 155 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [Python 3](./codeforces/1492/A.py) | `math` | Feb/24/2021 09:13 | 
 154 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Java 11](./codeforces/1486/A.java) | `greedy` `implementation` | Feb/19/2021 22:34 | 
 153 | [F - Equalize the Array](https://codeforces.com/contest/1490/problem/F) | [Java 11](./codeforces/1490/F.java) | `binary search` `data structures` `greedy` `math` `sortings` `*1500` | Feb/17/2021 17:37 | 
