@@ -2010,6 +2010,24 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109053948": {
+    "contest_id": 1384,
+    "language": "Java 11",
+    "path": "codeforces\\1384\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Common Prefixes",
+    "problem_url": "https://codeforces.com/contest/1384/problem/A",
+    "submission_id": "CF109053948",
+    "submission_url": "https://codeforces.com/contest/1384/submission/109053948",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Mar/04/2021 11:10"
+  },
   "CF109055525": {
     "contest_id": 1375,
     "language": "Java 11",
