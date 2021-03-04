@@ -2010,6 +2010,25 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109058547": {
+    "contest_id": 1364,
+    "language": "Java 11",
+    "path": "codeforces\\1364\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "XXXXX",
+    "problem_url": "https://codeforces.com/contest/1364/problem/A",
+    "submission_id": "CF109058547",
+    "submission_url": "https://codeforces.com/contest/1364/submission/109058547",
+    "tags": [
+      "brute force",
+      "data structures",
+      "number theory",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Mar/04/2021 12:38"
+  },
   "CF109072044": {
     "contest_id": 1363,
     "language": "Java 11",
