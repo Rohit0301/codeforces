@@ -2010,6 +2010,22 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109143540": {
+    "contest_id": 1315,
+    "language": "Java 11",
+    "path": "codeforces\\1315\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Restoring Permutation",
+    "problem_url": "https://codeforces.com/contest/1315/problem/C",
+    "submission_id": "CF109143540",
+    "submission_url": "https://codeforces.com/contest/1315/submission/109143540",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Mar/05/2021 16:04"
+  },
   "CF109148288": {
     "contest_id": 1311,
     "language": "Java 11",
