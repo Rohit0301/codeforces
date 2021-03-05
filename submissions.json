@@ -2010,6 +2010,25 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109149485": {
+    "contest_id": 1305,
+    "language": "Java 11",
+    "path": "codeforces\\1305\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kuroni and Simple Strings",
+    "problem_url": "https://codeforces.com/contest/1305/problem/B",
+    "submission_id": "CF109149485",
+    "submission_url": "https://codeforces.com/contest/1305/submission/109149485",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Mar/05/2021 17:42"
+  },
   "CF109151041": {
     "contest_id": 1277,
     "language": "Java 11",
