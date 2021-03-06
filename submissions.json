@@ -2010,6 +2010,23 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109219227": {
+    "contest_id": 1221,
+    "language": "Java 11",
+    "path": "codeforces\\1221\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Perfect Team",
+    "problem_url": "https://codeforces.com/contest/1221/problem/C",
+    "submission_id": "CF109219227",
+    "submission_url": "https://codeforces.com/contest/1221/submission/109219227",
+    "tags": [
+      "binary search",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Mar/06/2021 17:14"
+  },
   "CF109220329": {
     "contest_id": 1214,
     "language": "Java 11",
