@@ -2010,6 +2010,22 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109218527": {
+    "contest_id": 1227,
+    "language": "Java 11",
+    "path": "codeforces\\1227\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Box",
+    "problem_url": "https://codeforces.com/contest/1227/problem/B",
+    "submission_id": "CF109218527",
+    "submission_url": "https://codeforces.com/contest/1227/submission/109218527",
+    "tags": [
+      "constructive algorithms",
+      "*1200"
+    ],
+    "timestamp": "Mar/06/2021 17:02"
+  },
   "CF109219227": {
     "contest_id": 1221,
     "language": "Java 11",
