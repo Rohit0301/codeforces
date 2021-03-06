@@ -2010,6 +2010,23 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109246661": {
+    "contest_id": 1493,
+    "language": "Java 11",
+    "path": "codeforces\\1493\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anti-knapsack",
+    "problem_url": "https://codeforces.com/contest/1493/problem/A",
+    "submission_id": "CF109246661",
+    "submission_url": "https://codeforces.com/contest/1493/submission/109246661",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/06/2021 20:16"
+  },
   "CF109441817": {
     "contest_id": 1401,
     "language": "Java 11",
