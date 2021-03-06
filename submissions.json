@@ -2010,6 +2010,23 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109220329": {
+    "contest_id": 1214,
+    "language": "Java 11",
+    "path": "codeforces\\1214\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bad Sequence",
+    "problem_url": "https://codeforces.com/contest/1214/problem/C",
+    "submission_id": "CF109220329",
+    "submission_url": "https://codeforces.com/contest/1214/submission/109220329",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Mar/06/2021 17:31"
+  },
   "CF109221450": {
     "contest_id": 1213,
     "language": "Java 11",
