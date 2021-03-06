@@ -2010,6 +2010,23 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109195576": {
+    "contest_id": 1294,
+    "language": "Java 11",
+    "path": "codeforces\\1294\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Collecting Packages",
+    "problem_url": "https://codeforces.com/contest/1294/problem/B",
+    "submission_id": "CF109195576",
+    "submission_url": "https://codeforces.com/contest/1294/submission/109195576",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Mar/06/2021 11:06"
+  },
   "CF109196042": {
     "contest_id": 1272,
     "language": "Java 11",
