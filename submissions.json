@@ -2010,6 +2010,24 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109460597": {
+    "contest_id": 1372,
+    "language": "Java 11",
+    "path": "codeforces\\1372\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Omkar and Last Class of Math",
+    "problem_url": "https://codeforces.com/contest/1372/problem/B",
+    "submission_id": "CF109460597",
+    "submission_url": "https://codeforces.com/contest/1372/submission/109460597",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Mar/09/2021 16:31"
+  },
   "CF109531165": {
     "contest_id": 1365,
     "language": "Java 11",
