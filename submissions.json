@@ -2010,6 +2010,24 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109443750": {
+    "contest_id": 1381,
+    "language": "Java 11",
+    "path": "codeforces\\1381\\A1.java",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Prefix Flip (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1381/problem/A1",
+    "submission_id": "CF109443750",
+    "submission_url": "https://codeforces.com/contest/1381/submission/109443750",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Mar/09/2021 12:16"
+  },
   "CF109445198": {
     "contest_id": 1373,
     "language": "Java 11",
