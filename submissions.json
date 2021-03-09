@@ -2010,6 +2010,22 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109445198": {
+    "contest_id": 1373,
+    "language": "Java 11",
+    "path": "codeforces\\1373\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pluses and Minuses",
+    "problem_url": "https://codeforces.com/contest/1373/problem/C",
+    "submission_id": "CF109445198",
+    "submission_url": "https://codeforces.com/contest/1373/submission/109445198",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Mar/09/2021 12:41"
+  },
   "CF109460597": {
     "contest_id": 1372,
     "language": "Java 11",
