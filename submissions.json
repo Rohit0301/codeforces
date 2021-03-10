@@ -2010,6 +2010,23 @@
     ],
     "timestamp": "Feb/25/2021 09:25"
   },
+  "CF109536955": {
+    "contest_id": 1360,
+    "language": "Java 11",
+    "path": "codeforces\\1360\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Buying Shovels",
+    "problem_url": "https://codeforces.com/contest/1360/problem/D",
+    "submission_id": "CF109536955",
+    "submission_url": "https://codeforces.com/contest/1360/submission/109536955",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Mar/10/2021 12:29"
+  },
   "CF109595878": {
     "contest_id": 1496,
     "language": "Java 11",

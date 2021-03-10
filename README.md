@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-160 | [D - Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | [Java 11](./codeforces/1352/D.java) | `implementation` `*1300` | Mar/12/2021 11:36 | 
-159 | [C - Diamond Miner](https://codeforces.com/contest/1496/problem/C) | [Java 11](./codeforces/1496/C.java) | `geometry` `greedy` `sortings` `*1200` | Mar/12/2021 11:12 | 
-158 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [Java 11](./codeforces/1496/A.java) | `brute force` `constructive algorithms` `greedy` `strings` | Mar/10/2021 19:16 | 
-157 | [B - Max and Mex](https://codeforces.com/contest/1496/problem/B) | [Java 11](./codeforces/1496/B.java) | `implementation` `math` | Mar/10/2021 18:39 | 
+161 | [D - Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | [Java 11](./codeforces/1352/D.java) | `implementation` `*1300` | Mar/12/2021 11:36 | 
+160 | [C - Diamond Miner](https://codeforces.com/contest/1496/problem/C) | [Java 11](./codeforces/1496/C.java) | `geometry` `greedy` `sortings` `*1200` | Mar/12/2021 11:12 | 
+159 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [Java 11](./codeforces/1496/A.java) | `brute force` `constructive algorithms` `greedy` `strings` | Mar/10/2021 19:16 | 
+158 | [B - Max and Mex](https://codeforces.com/contest/1496/problem/B) | [Java 11](./codeforces/1496/B.java) | `implementation` `math` | Mar/10/2021 18:39 | 
+157 | [D - Buying Shovels](https://codeforces.com/contest/1360/problem/D) | [Java 11](./codeforces/1360/D.java) | `math` `number theory` `*1300` | Mar/10/2021 12:29 | 
 156 | [A - Suborrays](https://codeforces.com/contest/1391/problem/A) | [Java 11](./codeforces/1391/A.java) | `constructive algorithms` `math` `*800` | Feb/25/2021 09:25 | 
 155 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [Python 3](./codeforces/1492/A.py) | `math` | Feb/24/2021 09:13 | 
 154 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Java 11](./codeforces/1486/A.java) | `greedy` `implementation` | Feb/19/2021 22:34 | 
