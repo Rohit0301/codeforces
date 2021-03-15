@@ -2812,6 +2812,24 @@
     ],
     "timestamp": "Mar/12/2021 11:36"
   },
+  "CF110012806": {
+    "contest_id": 1326,
+    "language": "Java 11",
+    "path": "codeforces\\1326\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Permutation Partitions",
+    "problem_url": "https://codeforces.com/contest/1326/problem/C",
+    "submission_id": "CF110012806",
+    "submission_url": "https://codeforces.com/contest/1326/submission/110012806",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Mar/15/2021 11:50"
+  },
   "CF110015818": {
     "contest_id": 1315,
     "language": "Java 11",
