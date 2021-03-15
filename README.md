@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-212 | [B - Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | [Java 11](./codeforces/454/B.java) | `implementation` `*1200` | Mar/22/2021 14:56 | 
-211 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Java 11](./codeforces/1499/B.java) | `brute force` `dp` `greedy` `implementation` `*1000` | Mar/18/2021 21:26 | 
-210 | [A - Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) | [Java 11](./codeforces/1499/A.java) | `combinatorics` `constructive algorithms` `math` `*800` | Mar/18/2021 20:37 | 
-209 | [C1 - k-LCM (easy version)](https://codeforces.com/contest/1497/problem/C1) | [Java 11](./codeforces/1497/C1.java) | `constructive algorithms` `math` `*1200` | Mar/17/2021 21:57 | 
-208 | [B - M-arrays](https://codeforces.com/contest/1497/problem/B) | [Java 11](./codeforces/1497/B.java) | `constructive algorithms` `greedy` `math` `*1200` | Mar/17/2021 21:30 | 
-207 | [A - Meximization](https://codeforces.com/contest/1497/problem/A) | [Java 11](./codeforces/1497/A.java) | `brute force` `data structures` `greedy` `sortings` `*800` | Mar/17/2021 20:15 | 
-206 | [B - Verse For Santa](https://codeforces.com/contest/1279/problem/B) | [Java 11](./codeforces/1279/B.java) | `binary search` `brute force` `implementation` `*1300` | Mar/16/2021 11:35 | 
-205 | [B - Just Eat It!](https://codeforces.com/contest/1285/problem/B) | [Java 11](./codeforces/1285/B.java) | `dp` `greedy` `implementation` `*1300` | Mar/16/2021 11:12 | 
-204 | [B - Array Sharpening](https://codeforces.com/contest/1291/problem/B) | [Java 11](./codeforces/1291/B.java) | `greedy` `implementation` `*1300` | Mar/16/2021 10:48 | 
-203 | [C - Perform the Combo](https://codeforces.com/contest/1311/problem/C) | [Java 11](./codeforces/1311/C.java) | `brute force` `*1300` | Mar/15/2021 13:13 | 
+213 | [B - Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | [Java 11](./codeforces/454/B.java) | `implementation` `*1200` | Mar/22/2021 14:56 | 
+212 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Java 11](./codeforces/1499/B.java) | `brute force` `dp` `greedy` `implementation` `*1000` | Mar/18/2021 21:26 | 
+211 | [A - Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) | [Java 11](./codeforces/1499/A.java) | `combinatorics` `constructive algorithms` `math` `*800` | Mar/18/2021 20:37 | 
+210 | [C1 - k-LCM (easy version)](https://codeforces.com/contest/1497/problem/C1) | [Java 11](./codeforces/1497/C1.java) | `constructive algorithms` `math` `*1200` | Mar/17/2021 21:57 | 
+209 | [B - M-arrays](https://codeforces.com/contest/1497/problem/B) | [Java 11](./codeforces/1497/B.java) | `constructive algorithms` `greedy` `math` `*1200` | Mar/17/2021 21:30 | 
+208 | [A - Meximization](https://codeforces.com/contest/1497/problem/A) | [Java 11](./codeforces/1497/A.java) | `brute force` `data structures` `greedy` `sortings` `*800` | Mar/17/2021 20:15 | 
+207 | [B - Verse For Santa](https://codeforces.com/contest/1279/problem/B) | [Java 11](./codeforces/1279/B.java) | `binary search` `brute force` `implementation` `*1300` | Mar/16/2021 11:35 | 
+206 | [B - Just Eat It!](https://codeforces.com/contest/1285/problem/B) | [Java 11](./codeforces/1285/B.java) | `dp` `greedy` `implementation` `*1300` | Mar/16/2021 11:12 | 
+205 | [B - Array Sharpening](https://codeforces.com/contest/1291/problem/B) | [Java 11](./codeforces/1291/B.java) | `greedy` `implementation` `*1300` | Mar/16/2021 10:48 | 
+204 | [C - Perform the Combo](https://codeforces.com/contest/1311/problem/C) | [Java 11](./codeforces/1311/C.java) | `brute force` `*1300` | Mar/15/2021 13:13 | 
+203 | [B - Homecoming](https://codeforces.com/contest/1315/problem/B) | [Java 11](./codeforces/1315/B.java) | `binary search` `dp` `greedy` `strings` `*1300` | Mar/15/2021 12:48 | 
 202 | [D - Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | [Java 11](./codeforces/1352/D.java) | `implementation` `*1300` | Mar/12/2021 11:36 | 
 201 | [C - Diamond Miner](https://codeforces.com/contest/1496/problem/C) | [Java 11](./codeforces/1496/C.java) | `geometry` `greedy` `sortings` `*1200` | Mar/12/2021 11:12 | 
 200 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [Java 11](./codeforces/1496/A.java) | `brute force` `constructive algorithms` `greedy` `strings` | Mar/10/2021 19:16 | 
