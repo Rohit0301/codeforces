@@ -2812,6 +2812,23 @@
     ],
     "timestamp": "Mar/12/2021 11:36"
   },
+  "CF110080547": {
+    "contest_id": 1291,
+    "language": "Java 11",
+    "path": "codeforces\\1291\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Sharpening",
+    "problem_url": "https://codeforces.com/contest/1291/problem/B",
+    "submission_id": "CF110080547",
+    "submission_url": "https://codeforces.com/contest/1291/submission/110080547",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Mar/16/2021 10:48"
+  },
   "CF110081656": {
     "contest_id": 1285,
     "language": "Java 11",
