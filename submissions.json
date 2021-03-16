@@ -2812,6 +2812,24 @@
     ],
     "timestamp": "Mar/12/2021 11:36"
   },
+  "CF110082824": {
+    "contest_id": 1279,
+    "language": "Java 11",
+    "path": "codeforces\\1279\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Verse For Santa",
+    "problem_url": "https://codeforces.com/contest/1279/problem/B",
+    "submission_id": "CF110082824",
+    "submission_url": "https://codeforces.com/contest/1279/submission/110082824",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Mar/16/2021 11:35"
+  },
   "CF110190808": {
     "contest_id": 1497,
     "language": "Java 11",
