@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+203 | [B - Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | [Java 11](./codeforces/454/B.java) | `implementation` `*1200` | Mar/22/2021 14:56 | 
 202 | [D - Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | [Java 11](./codeforces/1352/D.java) | `implementation` `*1300` | Mar/12/2021 11:36 | 
 201 | [C - Diamond Miner](https://codeforces.com/contest/1496/problem/C) | [Java 11](./codeforces/1496/C.java) | `geometry` `greedy` `sortings` `*1200` | Mar/12/2021 11:12 | 
 200 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [Java 11](./codeforces/1496/A.java) | `brute force` `constructive algorithms` `greedy` `strings` | Mar/10/2021 19:16 | 
