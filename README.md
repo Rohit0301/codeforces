@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-218 | [C - Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | [Java 11](./codeforces/1506/C.java) | `brute force` `dp` `hashing` `strings` | Mar/25/2021 21:24 | 
-217 | [B - Partial Replacement](https://codeforces.com/contest/1506/problem/B) | [Java 11](./codeforces/1506/B.java) | `greedy` `implementation` | Mar/25/2021 21:00 | 
-216 | [A - Strange Table](https://codeforces.com/contest/1506/problem/A) | [Java 11](./codeforces/1506/A.java) | `math` | Mar/25/2021 20:40 | 
+219 | [C - Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | [Java 11](./codeforces/1506/C.java) | `brute force` `dp` `hashing` `strings` | Mar/25/2021 21:24 | 
+218 | [B - Partial Replacement](https://codeforces.com/contest/1506/problem/B) | [Java 11](./codeforces/1506/B.java) | `greedy` `implementation` | Mar/25/2021 21:00 | 
+217 | [A - Strange Table](https://codeforces.com/contest/1506/problem/A) | [Java 11](./codeforces/1506/A.java) | `math` | Mar/25/2021 20:40 | 
+216 | [A - Prison Break](https://codeforces.com/contest/1484/problem/A) | [Java 11](./codeforces/1484/A.java) | `constructive algorithms` | Mar/23/2021 11:17 | 
 215 | [B - Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B) | [Java 11](./codeforces/454/B.java) | `implementation` `*1200` | Mar/22/2021 14:56 | 
 214 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Java 11](./codeforces/1499/B.java) | `brute force` `dp` `greedy` `implementation` `*1000` | Mar/18/2021 21:26 | 
 213 | [A - Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) | [Java 11](./codeforces/1499/A.java) | `combinatorics` `constructive algorithms` `math` `*800` | Mar/18/2021 20:37 | 

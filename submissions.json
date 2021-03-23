@@ -3045,6 +3045,21 @@
     ],
     "timestamp": "Mar/22/2021 14:56"
   },
+  "CF110784557": {
+    "contest_id": 1484,
+    "language": "Java 11",
+    "path": "codeforces\\1484\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prison Break",
+    "problem_url": "https://codeforces.com/contest/1484/problem/A",
+    "submission_id": "CF110784557",
+    "submission_url": "https://codeforces.com/contest/1484/submission/110784557",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Mar/23/2021 11:17"
+  },
   "CF111006767": {
     "contest_id": 1506,
     "language": "Java 11",
