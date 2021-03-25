@@ -3045,6 +3045,22 @@
     ],
     "timestamp": "Mar/22/2021 14:56"
   },
+  "CF111021853": {
+    "contest_id": 1506,
+    "language": "Java 11",
+    "path": "codeforces\\1506\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Partial Replacement",
+    "problem_url": "https://codeforces.com/contest/1506/problem/B",
+    "submission_id": "CF111021853",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111021853",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Mar/25/2021 21:00"
+  },
   "CF111037174": {
     "contest_id": 1506,
     "language": "Java 11",
