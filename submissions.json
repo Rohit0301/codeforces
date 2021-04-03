@@ -3109,6 +3109,25 @@
     ],
     "timestamp": "Mar/25/2021 21:24"
   },
+  "CF111909624": {
+    "contest_id": 1504,
+    "language": "Java 11",
+    "path": "codeforces\\1504\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Flip the Bits",
+    "problem_url": "https://codeforces.com/contest/1504/problem/B",
+    "submission_id": "CF111909624",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111909624",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/03/2021 21:07"
+  },
   "CF112471452": {
     "contest_id": 1512,
     "language": "Java 11",
