@@ -3109,6 +3109,23 @@
     ],
     "timestamp": "Mar/25/2021 21:24"
   },
+  "CF111879843": {
+    "contest_id": 1504,
+    "language": "Java 11",
+    "path": "codeforces\\1504\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": " D\u00e9j\u00e0 Vu",
+    "problem_url": "https://codeforces.com/contest/1504/problem/A",
+    "submission_id": "CF111879843",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111879843",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/03/2021 20:19"
+  },
   "CF111909624": {
     "contest_id": 1504,
     "language": "Java 11",
