@@ -12,13 +12,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-226 | [B - TMT Document](https://codeforces.com/contest/1509/problem/B) | [Java 11](./codeforces/1509/B.java) | `greedy` | Apr/16/2021 20:50 | 
-225 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [Java 11](./codeforces/1509/A.java) | `constructive algorithms` | Apr/16/2021 20:10 | 
-224 | [D - Min Cost String](https://codeforces.com/contest/1511/problem/D) | [Java 11](./codeforces/1511/D.java) | `brute force` `constructive algorithms` `graphs` `greedy` `strings` `*1600` | Apr/12/2021 22:39 | 
-223 | [C - Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | [Java 11](./codeforces/1511/C.java) | `brute force` `data structures` `implementation` `trees` `*1100` | Apr/12/2021 21:10 | 
-222 | [B - GCD Length](https://codeforces.com/contest/1511/problem/B) | [Java 11](./codeforces/1511/B.java) | `constructive algorithms` `math` `number theory` `*1100` | Apr/12/2021 20:57 | 
-221 | [A - Review Site](https://codeforces.com/contest/1511/problem/A) | [Java 11](./codeforces/1511/A.java) | `greedy` `*800` | Apr/12/2021 20:12 | 
-220 | [B - Almost Rectangle](https://codeforces.com/contest/1512/problem/B) | [Java 11](./codeforces/1512/B.java) | `implementation` `*800` | Apr/10/2021 20:21 | 
+227 | [B - TMT Document](https://codeforces.com/contest/1509/problem/B) | [Java 11](./codeforces/1509/B.java) | `greedy` | Apr/16/2021 20:50 | 
+226 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [Java 11](./codeforces/1509/A.java) | `constructive algorithms` | Apr/16/2021 20:10 | 
+225 | [D - Min Cost String](https://codeforces.com/contest/1511/problem/D) | [Java 11](./codeforces/1511/D.java) | `brute force` `constructive algorithms` `graphs` `greedy` `strings` `*1600` | Apr/12/2021 22:39 | 
+224 | [C - Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | [Java 11](./codeforces/1511/C.java) | `brute force` `data structures` `implementation` `trees` `*1100` | Apr/12/2021 21:10 | 
+223 | [B - GCD Length](https://codeforces.com/contest/1511/problem/B) | [Java 11](./codeforces/1511/B.java) | `constructive algorithms` `math` `number theory` `*1100` | Apr/12/2021 20:57 | 
+222 | [A - Review Site](https://codeforces.com/contest/1511/problem/A) | [Java 11](./codeforces/1511/A.java) | `greedy` `*800` | Apr/12/2021 20:12 | 
+221 | [B - Almost Rectangle](https://codeforces.com/contest/1512/problem/B) | [Java 11](./codeforces/1512/B.java) | `implementation` `*800` | Apr/10/2021 20:21 | 
+220 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [Java 11](./codeforces/1512/A.java) | `brute force` `implementation` `*800` | Apr/10/2021 20:07 | 
 219 | [C - Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | [Java 11](./codeforces/1506/C.java) | `brute force` `dp` `hashing` `strings` | Mar/25/2021 21:24 | 
 218 | [B - Partial Replacement](https://codeforces.com/contest/1506/problem/B) | [Java 11](./codeforces/1506/B.java) | `greedy` `implementation` | Mar/25/2021 21:00 | 
 217 | [A - Strange Table](https://codeforces.com/contest/1506/problem/A) | [Java 11](./codeforces/1506/A.java) | `math` | Mar/25/2021 20:40 | 
