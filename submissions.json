@@ -3109,6 +3109,25 @@
     ],
     "timestamp": "Mar/25/2021 21:24"
   },
+  "CF112831863": {
+    "contest_id": 1511,
+    "language": "Java 11",
+    "path": "codeforces\\1511\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Card Deck",
+    "problem_url": "https://codeforces.com/contest/1511/problem/C",
+    "submission_id": "CF112831863",
+    "submission_url": "https://codeforces.com/contest/1511/submission/112831863",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "trees",
+      "*1100"
+    ],
+    "timestamp": "Apr/12/2021 21:10"
+  },
   "CF112861999": {
     "contest_id": 1511,
     "language": "Java 11",
