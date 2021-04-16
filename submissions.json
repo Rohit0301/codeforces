@@ -3109,6 +3109,21 @@
     ],
     "timestamp": "Mar/25/2021 21:24"
   },
+  "CF113190030": {
+    "contest_id": 1509,
+    "language": "Java 11",
+    "path": "codeforces\\1509\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Average Height",
+    "problem_url": "https://codeforces.com/contest/1509/problem/A",
+    "submission_id": "CF113190030",
+    "submission_url": "https://codeforces.com/contest/1509/submission/113190030",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Apr/16/2021 20:10"
+  },
   "CF113219753": {
     "contest_id": 1509,
     "language": "Java 11",
