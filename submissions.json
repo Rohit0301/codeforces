@@ -3281,6 +3281,24 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF114672473": {
+    "contest_id": 489,
+    "language": "Java 11",
+    "path": "codeforces\\489\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Given Length and Sum of Digits...",
+    "problem_url": "https://codeforces.com/contest/489/problem/C",
+    "submission_id": "CF114672473",
+    "submission_url": "https://codeforces.com/contest/489/submission/114672473",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/30/2021 15:01"
+  },
   "CF114675775": {
     "contest_id": 279,
     "language": "Java 11",
