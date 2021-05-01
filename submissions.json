@@ -3281,6 +3281,25 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF114796377": {
+    "contest_id": 1324,
+    "language": "Java 11",
+    "path": "codeforces\\1324\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Pair of Topics",
+    "problem_url": "https://codeforces.com/contest/1324/problem/D",
+    "submission_id": "CF114796377",
+    "submission_url": "https://codeforces.com/contest/1324/submission/114796377",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "May/01/2021 23:17"
+  },
   "CF114799795": {
     "contest_id": 1375,
     "language": "Java 11",
