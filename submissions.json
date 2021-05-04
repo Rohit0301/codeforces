@@ -3281,6 +3281,23 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF115118407": {
+    "contest_id": 1183,
+    "language": "Java 11",
+    "path": "codeforces\\1183\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Candy Box (easy version)",
+    "problem_url": "https://codeforces.com/contest/1183/problem/D",
+    "submission_id": "CF115118407",
+    "submission_url": "https://codeforces.com/contest/1183/submission/115118407",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/04/2021 16:46"
+  },
   "CF115216850": {
     "contest_id": 1520,
     "language": "Java 11",
