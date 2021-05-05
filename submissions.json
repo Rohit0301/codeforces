@@ -3281,6 +3281,23 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF115316972": {
+    "contest_id": 1520,
+    "language": "Java 11",
+    "path": "codeforces\\1520\\F1.java",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Guess the K-th Zero (Easy version)",
+    "problem_url": "https://codeforces.com/contest/1520/problem/F1",
+    "submission_id": "CF115316972",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115316972",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*1600"
+    ],
+    "timestamp": "May/05/2021 21:49"
+  },
   "CF116291991": {
     "contest_id": 1520,
     "language": "Java 11",

@@ -25,6 +25,7 @@
                                                                                                                                                                                                                    
  
 */ 
+ 
 import java.util.*;
 import java.io.*;
 import java.math.*;
@@ -44,28 +45,12 @@ public class cf{
  
 ////////////////////////////////////**********Code-Start**********/////////////////////////////////////////////////    
     public static void main(String[] args) {
-         InputStream inputStream = System.in;
+        InputStream inputStream = System.in;
         OutputStream outputStream = System.out;
-          if (System.getProperty("ONLINE_JUDGE") == null) {
-            try {
-                System.setOut(new PrintStream(
-                    new FileOutputStream("output.txt")));
-                 sc = new InputReader(new FileInputStream("input.txt"));
-                // reader = new BufferedReader(new FileReader("input.txt"));
-                // sc = new InputReader(new FileInputStream("input.txt"));
-            }
-            catch (Exception e) {
-            }
-            solve();
-         }
-         else{
-            sc = new InputReader(inputStream);
-            pw = new PrintWriter(outputStream);
-            solve();
-            pw.close();
-       }
-       
-
+        sc = new InputReader(inputStream);
+        pw = new PrintWriter(outputStream);
+        solve();
+        pw.close();
     }
    // static ArrayList<ArrayList<Integer>> arr=new ArrayList<>();
    // static PriorityQueue<Integer> pq=new PriorityQueue<>();
@@ -89,10 +74,16 @@ public class cf{
           }
           System.out.println("!"+" "+low);
           System.out.flush();
-        
+
+
    }
- 
- 
+
+   
+  
+    
+    
+  
+
      
 ////////////////////////////////////**********Code-End**********//////////////////////////////////////////////////
     
