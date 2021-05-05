@@ -3281,6 +3281,23 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF115216850": {
+    "contest_id": 1520,
+    "language": "Java 11",
+    "path": "codeforces\\1520\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Do Not Be Distracted!",
+    "problem_url": "https://codeforces.com/contest/1520/problem/A",
+    "submission_id": "CF115216850",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115216850",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/05/2021 20:11"
+  },
   "CF115259638": {
     "contest_id": 1520,
     "language": "Java 11",
