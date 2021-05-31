@@ -3281,6 +3281,24 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF118016932": {
+    "contest_id": 1526,
+    "language": "Java 11",
+    "path": "codeforces\\1526\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "I Hate 1111",
+    "problem_url": "https://codeforces.com/contest/1526/problem/B",
+    "submission_id": "CF118016932",
+    "submission_url": "https://codeforces.com/contest/1526/submission/118016932",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jun/01/2021 00:07"
+  },
   "CF118376867": {
     "contest_id": 1535,
     "language": "Java 11",
