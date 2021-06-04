@@ -3281,6 +3281,27 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF118424353": {
+    "contest_id": 1535,
+    "language": "Java 11",
+    "path": "codeforces\\1535\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Unstable String",
+    "problem_url": "https://codeforces.com/contest/1535/problem/C",
+    "submission_id": "CF118424353",
+    "submission_url": "https://codeforces.com/contest/1535/submission/118424353",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "strings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jun/04/2021 21:22"
+  },
   "CF118597223": {
     "contest_id": 1527,
     "language": "Java 11",
