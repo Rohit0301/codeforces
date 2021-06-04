@@ -3281,6 +3281,23 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF118376867": {
+    "contest_id": 1535,
+    "language": "Java 11",
+    "path": "codeforces\\1535\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fair Playoff",
+    "problem_url": "https://codeforces.com/contest/1535/problem/A",
+    "submission_id": "CF118376867",
+    "submission_url": "https://codeforces.com/contest/1535/submission/118376867",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/04/2021 20:11"
+  },
   "CF118396234": {
     "contest_id": 1535,
     "language": "Java 11",
