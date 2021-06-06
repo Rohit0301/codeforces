@@ -3281,6 +3281,24 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF118638859": {
+    "contest_id": 1536,
+    "language": "Java 11",
+    "path": "codeforces\\1536\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prinzessin der Verurteilung",
+    "problem_url": "https://codeforces.com/contest/1536/problem/B",
+    "submission_id": "CF118638859",
+    "submission_url": "https://codeforces.com/contest/1536/submission/118638859",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jun/06/2021 21:26"
+  },
   "CF118651367": {
     "contest_id": 1536,
     "language": "Java 11",
