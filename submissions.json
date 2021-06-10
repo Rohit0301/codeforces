@@ -3281,6 +3281,24 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF118976702": {
+    "contest_id": 1538,
+    "language": "Java 11",
+    "path": "codeforces\\1538\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stone Game",
+    "problem_url": "https://codeforces.com/contest/1538/problem/A",
+    "submission_id": "CF118976702",
+    "submission_url": "https://codeforces.com/contest/1538/submission/118976702",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jun/10/2021 20:13"
+  },
   "CF118987169": {
     "contest_id": 1538,
     "language": "Java 11",
