@@ -12,18 +12,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-241 | [B - Christmas Spruce](https://codeforces.com/contest/913/problem/B) | [Java 11](./codeforces/913/B.java) | `implementation` `trees` `*1200` | Jun/23/2021 17:01 | 
-240 | [C - Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | [Java 11](./codeforces/812/C.java) | `binary search` `sortings` `*1500` | Jun/22/2021 22:57 | 
-239 | [C - Anton and Fairy Tale](https://codeforces.com/contest/785/problem/C) | [Java 11](./codeforces/785/C.java) | `binary search` `math` `*1600` | Jun/22/2021 22:17 | 
-238 | [C - Tea Party](https://codeforces.com/contest/808/problem/C) | [Java 11](./codeforces/808/C.java) | `constructive algorithms` `greedy` `sortings` `*1400` | Jun/20/2021 00:58 | 
-237 | [B - Bear and Different Names](https://codeforces.com/contest/771/problem/B) | [Java 11](./codeforces/771/B.java) | `constructive algorithms` `greedy` `*1500` | Jun/20/2021 00:34 | 
-236 | [C - Vladik and fractions](https://codeforces.com/contest/743/problem/C) | [Java 11](./codeforces/743/C.java) | `brute force` `constructive algorithms` `math` `number theory` `*1500` | Jun/19/2021 23:32 | 
-235 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [Java 11](./codeforces/727/C.java) | `constructive algorithms` `interactive` `math` `*1400` | Jun/19/2021 23:14 | 
-234 | [D - Deleting Divisors](https://codeforces.com/contest/1537/problem/D) | [Java 11](./codeforces/1537/D.java) | `games` `math` `number theory` `*1700` | Jun/19/2021 14:10 | 
-233 | [C - Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | [Java 11](./codeforces/1537/C.java) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Jun/19/2021 14:00 | 
-232 | [B - Bad Boy](https://codeforces.com/contest/1537/problem/B) | [Java 11](./codeforces/1537/B.java) | `constructive algorithms` `greedy` `math` `*900` | Jun/18/2021 21:10 | 
-231 | [A - Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [Java 11](./codeforces/1537/A.java) | `greedy` `math` `*800` | Jun/18/2021 20:10 | 
-230 | [C - Online Courses In BSU](https://codeforces.com/contest/770/problem/C) | [Java 11](./codeforces/770/C.java) | `*special problem` `dfs and similar` `graphs` `implementation` `*1500` | Jun/17/2021 13:51 | 
+242 | [B - Christmas Spruce](https://codeforces.com/contest/913/problem/B) | [Java 11](./codeforces/913/B.java) | `implementation` `trees` `*1200` | Jun/23/2021 17:01 | 
+241 | [C - Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | [Java 11](./codeforces/812/C.java) | `binary search` `sortings` `*1500` | Jun/22/2021 22:57 | 
+240 | [C - Anton and Fairy Tale](https://codeforces.com/contest/785/problem/C) | [Java 11](./codeforces/785/C.java) | `binary search` `math` `*1600` | Jun/22/2021 22:17 | 
+239 | [C - Tea Party](https://codeforces.com/contest/808/problem/C) | [Java 11](./codeforces/808/C.java) | `constructive algorithms` `greedy` `sortings` `*1400` | Jun/20/2021 00:58 | 
+238 | [B - Bear and Different Names](https://codeforces.com/contest/771/problem/B) | [Java 11](./codeforces/771/B.java) | `constructive algorithms` `greedy` `*1500` | Jun/20/2021 00:34 | 
+237 | [C - Vladik and fractions](https://codeforces.com/contest/743/problem/C) | [Java 11](./codeforces/743/C.java) | `brute force` `constructive algorithms` `math` `number theory` `*1500` | Jun/19/2021 23:32 | 
+236 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [Java 11](./codeforces/727/C.java) | `constructive algorithms` `interactive` `math` `*1400` | Jun/19/2021 23:14 | 
+235 | [D - Deleting Divisors](https://codeforces.com/contest/1537/problem/D) | [Java 11](./codeforces/1537/D.java) | `games` `math` `number theory` `*1700` | Jun/19/2021 14:10 | 
+234 | [C - Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | [Java 11](./codeforces/1537/C.java) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Jun/19/2021 14:00 | 
+233 | [B - Bad Boy](https://codeforces.com/contest/1537/problem/B) | [Java 11](./codeforces/1537/B.java) | `constructive algorithms` `greedy` `math` `*900` | Jun/18/2021 21:10 | 
+232 | [A - Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [Java 11](./codeforces/1537/A.java) | `greedy` `math` `*800` | Jun/18/2021 20:10 | 
+231 | [C - Online Courses In BSU](https://codeforces.com/contest/770/problem/C) | [Java 11](./codeforces/770/C.java) | `*special problem` `dfs and similar` `graphs` `implementation` `*1500` | Jun/17/2021 13:51 | 
+230 | [B - Hierarchy](https://codeforces.com/contest/17/problem/B) | [Java 11](./codeforces/17/B.java) | `dfs and similar` `dsu` `greedy` `shortest paths` `*1500` | Jun/16/2021 23:56 | 
 229 | [B - TMT Document](https://codeforces.com/contest/1509/problem/B) | [Java 11](./codeforces/1509/B.java) | `greedy` | Apr/16/2021 20:50 | 
 228 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [Java 11](./codeforces/1509/A.java) | `constructive algorithms` | Apr/16/2021 20:10 | 
 227 | [D - Min Cost String](https://codeforces.com/contest/1511/problem/D) | [Java 11](./codeforces/1511/D.java) | `brute force` `constructive algorithms` `graphs` `greedy` `strings` `*1600` | Apr/12/2021 22:39 | 
