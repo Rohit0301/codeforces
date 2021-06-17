@@ -3281,6 +3281,25 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF119693433": {
+    "contest_id": 770,
+    "language": "Java 11",
+    "path": "codeforces\\770\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Online Courses In BSU",
+    "problem_url": "https://codeforces.com/contest/770/problem/C",
+    "submission_id": "CF119693433",
+    "submission_url": "https://codeforces.com/contest/770/submission/119693433",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jun/17/2021 13:51"
+  },
   "CF119807895": {
     "contest_id": 1537,
     "language": "Java 11",
