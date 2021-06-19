@@ -3281,6 +3281,25 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF119969876": {
+    "contest_id": 1537,
+    "language": "Java 11",
+    "path": "codeforces\\1537\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Challenging Cliffs",
+    "problem_url": "https://codeforces.com/contest/1537/problem/C",
+    "submission_id": "CF119969876",
+    "submission_url": "https://codeforces.com/contest/1537/submission/119969876",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/19/2021 14:00"
+  },
   "CF119970911": {
     "contest_id": 1537,
     "language": "Java 11",
