@@ -3281,6 +3281,25 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF120019085": {
+    "contest_id": 743,
+    "language": "Java 11",
+    "path": "codeforces\\743\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vladik and fractions",
+    "problem_url": "https://codeforces.com/contest/743/problem/C",
+    "submission_id": "CF120019085",
+    "submission_url": "https://codeforces.com/contest/743/submission/120019085",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jun/19/2021 23:32"
+  },
   "CF120023063": {
     "contest_id": 771,
     "language": "Java 11",
