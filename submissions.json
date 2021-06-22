@@ -3281,6 +3281,23 @@
     ],
     "timestamp": "Apr/16/2021 20:50"
   },
+  "CF120313782": {
+    "contest_id": 812,
+    "language": "Java 11",
+    "path": "codeforces\\812\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sagheer and Nubian Market",
+    "problem_url": "https://codeforces.com/contest/812/problem/C",
+    "submission_id": "CF120313782",
+    "submission_url": "https://codeforces.com/contest/812/submission/120313782",
+    "tags": [
+      "binary search",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Jun/22/2021 22:57"
+  },
   "CF120362263": {
     "contest_id": 913,
     "language": "Java 11",
