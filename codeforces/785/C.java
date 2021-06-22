@@ -10,19 +10,13 @@ import java.io.IOException;
 public class cf{
 
 static class Pair{
-        int u;
-        int v;
+        int x;
+        int y;
         Pair(int a,int b){
-            u=a;
-            v=b;
+            x=a;
+            y=b;
         
         }
-
-        public boolean equals(Object o) {
-            Pair other = (Pair) o;
-            return ((u == other.u && v == other.v));
-        }
-
     }
 
 
