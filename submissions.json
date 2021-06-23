@@ -4162,6 +4162,24 @@
     ],
     "timestamp": "Jun/23/2021 17:01"
   },
+  "CF120389929": {
+    "contest_id": 701,
+    "language": "Java 11",
+    "path": "codeforces\\701\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "They Are Everywhere",
+    "problem_url": "https://codeforces.com/contest/701/problem/C",
+    "submission_id": "CF120389929",
+    "submission_url": "https://codeforces.com/contest/701/submission/120389929",
+    "tags": [
+      "binary search",
+      "strings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jun/23/2021 23:05"
+  },
   "CF120393013": {
     "contest_id": 676,
     "language": "Java 11",
