@@ -4162,6 +4162,25 @@
     ],
     "timestamp": "Jun/23/2021 17:01"
   },
+  "CF120393013": {
+    "contest_id": 676,
+    "language": "Java 11",
+    "path": "codeforces\\676\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vasya and String",
+    "problem_url": "https://codeforces.com/contest/676/problem/C",
+    "submission_id": "CF120393013",
+    "submission_url": "https://codeforces.com/contest/676/submission/120393013",
+    "tags": [
+      "binary search",
+      "dp",
+      "strings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jun/23/2021 23:45"
+  },
   "CF120396381": {
     "contest_id": 991,
     "language": "Java 11",
