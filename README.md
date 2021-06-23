@@ -12,20 +12,21 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-289 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [Java 11](./codeforces/1316/B.java) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jul/06/2021 00:18 | 
-288 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [Java 11](./codeforces/1542/B.java) | `constructive algorithms` `math` `number theory` `*1500` | Jul/04/2021 00:34 | 
-287 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [Java 11](./codeforces/1542/A.java) | `math` `*800` | Jul/03/2021 23:59 | 
-286 | [B - Zero Array](https://codeforces.com/contest/1201/problem/B) | [Java 11](./codeforces/1201/B.java) | `greedy` `math` `*1500` | Jul/02/2021 00:32 | 
-285 | [B - Chloe and the sequence ](https://codeforces.com/contest/743/problem/B) | [Java 11](./codeforces/743/B.java) | `binary search` `bitmasks` `constructive algorithms` `implementation` `*1200` | Jul/01/2021 23:47 | 
-284 | [B1 - Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | [Java 11](./codeforces/1527/B1.java) | `constructive algorithms` `games` `*1200` | Jul/01/2021 02:11 | 
-283 | [A - Creating a Character](https://codeforces.com/contest/1217/problem/A) | [Java 11](./codeforces/1217/A.java) | `binary search` `math` `*1300` | Jul/01/2021 01:20 | 
-282 | [G - Gift Set](https://codeforces.com/contest/1538/problem/G) | [Java 11](./codeforces/1538/G.java) | `binary search` `greedy` `math` `ternary search` `*2100` | Jul/01/2021 00:54 | 
-281 | [B - Draw!](https://codeforces.com/contest/1131/problem/B) | [Java 11](./codeforces/1131/B.java) | `greedy` `implementation` `*1400` | Jun/27/2021 01:30 | 
-280 | [C - Good String](https://codeforces.com/contest/1165/problem/C) | [Java 11](./codeforces/1165/C.java) | `greedy` `*1300` | Jun/27/2021 00:26 | 
-279 | [C - Great Graphs](https://codeforces.com/contest/1541/problem/C) | [Java 11](./codeforces/1541/C.java) | `constructive algorithms` `graphs` `greedy` `shortest paths` `sortings` `*1400` | Jun/25/2021 23:19 | 
-278 | [B - Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | [Java 11](./codeforces/1541/B.java) | `brute force` `implementation` `math` `number theory` `*1200` | Jun/25/2021 21:56 | 
-277 | [A - Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | [Java 11](./codeforces/1541/A.java) | `constructive algorithms` `greedy` `implementation` `*800` | Jun/25/2021 21:12 | 
-276 | [A - Mean Inequality](https://codeforces.com/contest/1526/problem/A) | [Java 11](./codeforces/1526/A.java) | `constructive algorithms` `sortings` `*800` | Jun/24/2021 23:52 | 
+290 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [Java 11](./codeforces/1316/B.java) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jul/06/2021 00:18 | 
+289 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [Java 11](./codeforces/1542/B.java) | `constructive algorithms` `math` `number theory` `*1500` | Jul/04/2021 00:34 | 
+288 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [Java 11](./codeforces/1542/A.java) | `math` `*800` | Jul/03/2021 23:59 | 
+287 | [B - Zero Array](https://codeforces.com/contest/1201/problem/B) | [Java 11](./codeforces/1201/B.java) | `greedy` `math` `*1500` | Jul/02/2021 00:32 | 
+286 | [B - Chloe and the sequence ](https://codeforces.com/contest/743/problem/B) | [Java 11](./codeforces/743/B.java) | `binary search` `bitmasks` `constructive algorithms` `implementation` `*1200` | Jul/01/2021 23:47 | 
+285 | [B1 - Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | [Java 11](./codeforces/1527/B1.java) | `constructive algorithms` `games` `*1200` | Jul/01/2021 02:11 | 
+284 | [A - Creating a Character](https://codeforces.com/contest/1217/problem/A) | [Java 11](./codeforces/1217/A.java) | `binary search` `math` `*1300` | Jul/01/2021 01:20 | 
+283 | [G - Gift Set](https://codeforces.com/contest/1538/problem/G) | [Java 11](./codeforces/1538/G.java) | `binary search` `greedy` `math` `ternary search` `*2100` | Jul/01/2021 00:54 | 
+282 | [B - Draw!](https://codeforces.com/contest/1131/problem/B) | [Java 11](./codeforces/1131/B.java) | `greedy` `implementation` `*1400` | Jun/27/2021 01:30 | 
+281 | [C - Good String](https://codeforces.com/contest/1165/problem/C) | [Java 11](./codeforces/1165/C.java) | `greedy` `*1300` | Jun/27/2021 00:26 | 
+280 | [C - Great Graphs](https://codeforces.com/contest/1541/problem/C) | [Java 11](./codeforces/1541/C.java) | `constructive algorithms` `graphs` `greedy` `shortest paths` `sortings` `*1400` | Jun/25/2021 23:19 | 
+279 | [B - Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | [Java 11](./codeforces/1541/B.java) | `brute force` `implementation` `math` `number theory` `*1200` | Jun/25/2021 21:56 | 
+278 | [A - Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | [Java 11](./codeforces/1541/A.java) | `constructive algorithms` `greedy` `implementation` `*800` | Jun/25/2021 21:12 | 
+277 | [A - Mean Inequality](https://codeforces.com/contest/1526/problem/A) | [Java 11](./codeforces/1526/A.java) | `constructive algorithms` `sortings` `*800` | Jun/24/2021 23:52 | 
+276 | [C - Candies](https://codeforces.com/contest/991/problem/C) | [Java 11](./codeforces/991/C.java) | `binary search` `implementation` `*1500` | Jun/24/2021 00:44 | 
 275 | [B - Christmas Spruce](https://codeforces.com/contest/913/problem/B) | [Java 11](./codeforces/913/B.java) | `implementation` `trees` `*1200` | Jun/23/2021 17:01 | 
 274 | [C - Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | [Java 11](./codeforces/812/C.java) | `binary search` `sortings` `*1500` | Jun/22/2021 22:57 | 
 273 | [C - Anton and Fairy Tale](https://codeforces.com/contest/785/problem/C) | [Java 11](./codeforces/785/C.java) | `binary search` `math` `*1600` | Jun/22/2021 22:17 | 

@@ -4162,6 +4162,23 @@
     ],
     "timestamp": "Jun/23/2021 17:01"
   },
+  "CF120396381": {
+    "contest_id": 991,
+    "language": "Java 11",
+    "path": "codeforces\\991\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Candies",
+    "problem_url": "https://codeforces.com/contest/991/problem/C",
+    "submission_id": "CF120396381",
+    "submission_url": "https://codeforces.com/contest/991/submission/120396381",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jun/24/2021 00:44"
+  },
   "CF120470990": {
     "contest_id": 1526,
     "language": "Java 11",
