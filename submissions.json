@@ -4162,6 +4162,26 @@
     ],
     "timestamp": "Jun/23/2021 17:01"
   },
+  "CF120609137": {
+    "contest_id": 1541,
+    "language": "Java 11",
+    "path": "codeforces\\1541\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Great Graphs",
+    "problem_url": "https://codeforces.com/contest/1541/problem/C",
+    "submission_id": "CF120609137",
+    "submission_url": "https://codeforces.com/contest/1541/submission/120609137",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/25/2021 23:19"
+  },
   "CF120692762": {
     "contest_id": 1165,
     "language": "Java 11",
