@@ -4162,6 +4162,25 @@
     ],
     "timestamp": "Jun/23/2021 17:01"
   },
+  "CF120576836": {
+    "contest_id": 1541,
+    "language": "Java 11",
+    "path": "codeforces\\1541\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pleasant Pairs",
+    "problem_url": "https://codeforces.com/contest/1541/problem/B",
+    "submission_id": "CF120576836",
+    "submission_url": "https://codeforces.com/contest/1541/submission/120576836",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Jun/25/2021 21:56"
+  },
   "CF120609137": {
     "contest_id": 1541,
     "language": "Java 11",
