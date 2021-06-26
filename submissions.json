@@ -4162,6 +4162,23 @@
     ],
     "timestamp": "Jun/23/2021 17:01"
   },
+  "CF120695295": {
+    "contest_id": 1131,
+    "language": "Java 11",
+    "path": "codeforces\\1131\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Draw!",
+    "problem_url": "https://codeforces.com/contest/1131/problem/B",
+    "submission_id": "CF120695295",
+    "submission_url": "https://codeforces.com/contest/1131/submission/120695295",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/27/2021 01:30"
+  },
   "CF120978092": {
     "contest_id": 1538,
     "language": "Java 11",
