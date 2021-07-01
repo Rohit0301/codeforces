@@ -4162,6 +4162,23 @@
     ],
     "timestamp": "Jun/23/2021 17:01"
   },
+  "CF121053190": {
+    "contest_id": 1201,
+    "language": "Java 11",
+    "path": "codeforces\\1201\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Zero Array",
+    "problem_url": "https://codeforces.com/contest/1201/problem/B",
+    "submission_id": "CF121053190",
+    "submission_url": "https://codeforces.com/contest/1201/submission/121053190",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jul/02/2021 00:32"
+  },
   "CF121259395": {
     "contest_id": 1542,
     "language": "Java 11",
