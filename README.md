@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-277 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [Java 11](./codeforces/1316/B.java) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jul/06/2021 00:18 | 
-276 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [Java 11](./codeforces/1542/B.java) | `constructive algorithms` `math` `number theory` `*1500` | Jul/04/2021 00:34 | 
+278 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [Java 11](./codeforces/1316/B.java) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jul/06/2021 00:18 | 
+277 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [Java 11](./codeforces/1542/B.java) | `constructive algorithms` `math` `number theory` `*1500` | Jul/04/2021 00:34 | 
+276 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [Java 11](./codeforces/1542/A.java) | `math` `*800` | Jul/03/2021 23:59 | 
 275 | [B - Christmas Spruce](https://codeforces.com/contest/913/problem/B) | [Java 11](./codeforces/913/B.java) | `implementation` `trees` `*1200` | Jun/23/2021 17:01 | 
 274 | [C - Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | [Java 11](./codeforces/812/C.java) | `binary search` `sortings` `*1500` | Jun/22/2021 22:57 | 
 273 | [C - Anton and Fairy Tale](https://codeforces.com/contest/785/problem/C) | [Java 11](./codeforces/785/C.java) | `binary search` `math` `*1600` | Jun/22/2021 22:17 | 
