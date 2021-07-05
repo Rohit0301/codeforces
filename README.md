@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+276 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [Java 11](./codeforces/1316/B.java) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jul/06/2021 00:18 | 
 275 | [B - Christmas Spruce](https://codeforces.com/contest/913/problem/B) | [Java 11](./codeforces/913/B.java) | `implementation` `trees` `*1200` | Jun/23/2021 17:01 | 
 274 | [C - Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | [Java 11](./codeforces/812/C.java) | `binary search` `sortings` `*1500` | Jun/22/2021 22:57 | 
 273 | [C - Anton and Fairy Tale](https://codeforces.com/contest/785/problem/C) | [Java 11](./codeforces/785/C.java) | `binary search` `math` `*1600` | Jun/22/2021 22:17 | 
