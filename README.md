@@ -12,13 +12,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-299 | [C - AquaMoon and Strange Sort](https://codeforces.com/contest/1546/problem/C) | [Java 11](./codeforces/1546/C.java) | `sortings` | Jul/11/2021 20:46 | 
-298 | [B - AquaMoon and Stolen String](https://codeforces.com/contest/1546/problem/B) | [Java 11](./codeforces/1546/B.java) | `interactive` | Jul/11/2021 20:17 | 
-297 | [A - AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | [Java 11](./codeforces/1546/A.java) | `brute force` | Jul/11/2021 19:59 | 
-296 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 11](./codeforces/1547/B.java) | `greedy` `implementation` `strings` | Jul/11/2021 15:48 | 
-295 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 11](./codeforces/1547/A.java) | `implementation` `math` | Jul/11/2021 15:35 | 
-294 | [B - Land Lot](https://codeforces.com/contest/48/problem/B) | [Java 11](./codeforces/48/B.java) | `brute force` `implementation` `*1200` | Jul/11/2021 15:07 | 
-293 | [B - Customising the Track](https://codeforces.com/contest/1543/problem/B) | [Java 11](./codeforces/1543/B.java) | `combinatorics` `greedy` `math` `*900` | Jul/08/2021 00:45 | 
+300 | [C - AquaMoon and Strange Sort](https://codeforces.com/contest/1546/problem/C) | [Java 11](./codeforces/1546/C.java) | `sortings` | Jul/11/2021 20:46 | 
+299 | [B - AquaMoon and Stolen String](https://codeforces.com/contest/1546/problem/B) | [Java 11](./codeforces/1546/B.java) | `interactive` | Jul/11/2021 20:17 | 
+298 | [A - AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | [Java 11](./codeforces/1546/A.java) | `brute force` | Jul/11/2021 19:59 | 
+297 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 11](./codeforces/1547/B.java) | `greedy` `implementation` `strings` | Jul/11/2021 15:48 | 
+296 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 11](./codeforces/1547/A.java) | `implementation` `math` | Jul/11/2021 15:35 | 
+295 | [B - Land Lot](https://codeforces.com/contest/48/problem/B) | [Java 11](./codeforces/48/B.java) | `brute force` `implementation` `*1200` | Jul/11/2021 15:07 | 
+294 | [B - Customising the Track](https://codeforces.com/contest/1543/problem/B) | [Java 11](./codeforces/1543/B.java) | `combinatorics` `greedy` `math` `*900` | Jul/08/2021 00:45 | 
+293 | [A - Exciting Bets](https://codeforces.com/contest/1543/problem/A) | [Java 11](./codeforces/1543/A.java) | `greedy` `math` `number theory` `*900` | Jul/08/2021 00:23 | 
 292 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [Java 11](./codeforces/1316/B.java) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jul/06/2021 00:18 | 
 291 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [Java 11](./codeforces/1542/B.java) | `constructive algorithms` `math` `number theory` `*1500` | Jul/04/2021 00:34 | 
 290 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [Java 11](./codeforces/1542/A.java) | `math` `*800` | Jul/03/2021 23:59 | 
