@@ -4466,6 +4466,21 @@
     ],
     "timestamp": "Jul/06/2021 00:18"
   },
+  "CF122086291": {
+    "contest_id": 1546,
+    "language": "Java 11",
+    "path": "codeforces\\1546\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "AquaMoon and Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1546/problem/A",
+    "submission_id": "CF122086291",
+    "submission_url": "https://codeforces.com/contest/1546/submission/122086291",
+    "tags": [
+      "brute force"
+    ],
+    "timestamp": "Jul/11/2021 19:59"
+  },
   "CF122096146": {
     "contest_id": 1546,
     "language": "Java 11",
