@@ -4466,6 +4466,23 @@
     ],
     "timestamp": "Jul/06/2021 00:18"
   },
+  "CF122057561": {
+    "contest_id": 1547,
+    "language": "Java 11",
+    "path": "codeforces\\1547\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Alphabetical Strings",
+    "problem_url": "https://codeforces.com/contest/1547/problem/B",
+    "submission_id": "CF122057561",
+    "submission_url": "https://codeforces.com/contest/1547/submission/122057561",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Jul/11/2021 15:48"
+  },
   "CF122086291": {
     "contest_id": 1546,
     "language": "Java 11",
