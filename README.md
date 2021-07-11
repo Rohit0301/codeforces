@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-297 | [C - AquaMoon and Strange Sort](https://codeforces.com/contest/1546/problem/C) | [Java 11](./codeforces/1546/C.java) | `sortings` | Jul/11/2021 20:46 | 
-296 | [B - AquaMoon and Stolen String](https://codeforces.com/contest/1546/problem/B) | [Java 11](./codeforces/1546/B.java) | `interactive` | Jul/11/2021 20:17 | 
-295 | [A - AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | [Java 11](./codeforces/1546/A.java) | `brute force` | Jul/11/2021 19:59 | 
-294 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 11](./codeforces/1547/B.java) | `greedy` `implementation` `strings` | Jul/11/2021 15:48 | 
-293 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 11](./codeforces/1547/A.java) | `implementation` `math` | Jul/11/2021 15:35 | 
+298 | [C - AquaMoon and Strange Sort](https://codeforces.com/contest/1546/problem/C) | [Java 11](./codeforces/1546/C.java) | `sortings` | Jul/11/2021 20:46 | 
+297 | [B - AquaMoon and Stolen String](https://codeforces.com/contest/1546/problem/B) | [Java 11](./codeforces/1546/B.java) | `interactive` | Jul/11/2021 20:17 | 
+296 | [A - AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | [Java 11](./codeforces/1546/A.java) | `brute force` | Jul/11/2021 19:59 | 
+295 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 11](./codeforces/1547/B.java) | `greedy` `implementation` `strings` | Jul/11/2021 15:48 | 
+294 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 11](./codeforces/1547/A.java) | `implementation` `math` | Jul/11/2021 15:35 | 
+293 | [B - Land Lot](https://codeforces.com/contest/48/problem/B) | [Java 11](./codeforces/48/B.java) | `brute force` `implementation` `*1200` | Jul/11/2021 15:07 | 
 292 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [Java 11](./codeforces/1316/B.java) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jul/06/2021 00:18 | 
 291 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [Java 11](./codeforces/1542/B.java) | `constructive algorithms` `math` `number theory` `*1500` | Jul/04/2021 00:34 | 
 290 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [Java 11](./codeforces/1542/A.java) | `math` `*800` | Jul/03/2021 23:59 | 

@@ -4466,6 +4466,23 @@
     ],
     "timestamp": "Jul/06/2021 00:18"
   },
+  "CF122054550": {
+    "contest_id": 48,
+    "language": "Java 11",
+    "path": "codeforces\\48\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Land Lot",
+    "problem_url": "https://codeforces.com/contest/48/problem/B",
+    "submission_id": "CF122054550",
+    "submission_url": "https://codeforces.com/contest/48/submission/122054550",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/11/2021 15:07"
+  },
   "CF122056599": {
     "contest_id": 1547,
     "language": "Java 11",
